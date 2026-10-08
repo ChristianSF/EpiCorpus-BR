@@ -1,0 +1,9 @@
+{
+  "total_rows": 180,
+  "accepted_ok": 0,
+  "accepted_corrigido": 0,
+  "skipped_erro": 0,
+  "skipped_pendente": 180,
+  "warnings": 0,
+  "gold_sentences": 180
+}

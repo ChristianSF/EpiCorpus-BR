@@ -1,0 +1,902 @@
+[
+  {
+    "id": 1,
+    "data": {
+      "text": "Tabela 8. Suscetibilidade a diferentes antimicrobianos por grupo etário. | Grupo etário: 24-59 meses | n: 27 | Ceftriaxona meningites (CIM)* Suscetível n: 14 | 51,9 | 7 | 25,9 | 6 | 22,2",
+      "sentenca_id": "sireva_2019_t0095",
+      "relatorio": "sireva_2019",
+      "pagina": 32
+    }
+  },
+  {
+    "id": 2,
+    "data": {
+      "text": "Grupo etário: 50-59 anos | n: 93 | 91 | 12,2 | 2 | 28,6",
+      "sentenca_id": "sireva_2017_t0163",
+      "relatorio": "sireva_2017",
+      "pagina": 37
+    }
+  },
+  {
+    "id": 3,
+    "data": {
+      "text": "Tabela 1. Número de cepas por grupo etário e sexo. | Grupo etário: 50-59 anos | 35 | 60,3 | 23 | 39,7 | 0 | 0,0 | 58 | 16,3",
+      "sentenca_id": "sireva_2020_t0018",
+      "relatorio": "sireva_2020",
+      "pagina": 19
+    }
+  },
+  {
+    "id": 4,
+    "data": {
+      "text": "Grupo etário: Subtotal (2) | n: 322 | Cloranfenicol (KB ou CIM) Suscetível n: 321 | %: 99,7 | Resistente n: 1 | %: 0,3",
+      "sentenca_id": "sireva_2015_t0206",
+      "relatorio": "sireva_2015",
+      "pagina": 39
+    }
+  },
+  {
+    "id": 5,
+    "data": {
+      "text": "Tabela 5. Suscetibilidade de cepas aos diferentes antimicrobianos. | Grupo etário: Total | 382 | n: 188 | %: 49,2 | n: 188 | %: 49,2 | n: 0 | %: 0,0",
+      "sentenca_id": "sireva_2013_t0052",
+      "relatorio": "sireva_2013",
+      "pagina": 20
+    }
+  },
+  {
+    "id": 6,
+    "data": {
+      "text": "Tabela 1. Número de cepas por grupo etário e sexo. | Subtotal (2) | n: 305 | %: 69,3 | n: 134 | %: 30,5 | n: 1 | %: 0,2 | n: 440 | %: 42,6",
+      "sentenca_id": "sireva_2013_t0060",
+      "relatorio": "sireva_2013",
+      "pagina": 22
+    }
+  },
+  {
+    "id": 7,
+    "data": {
+      "text": "Tabela 3. Número de cepas invasivas por grupo etário e fonte de isolamento | Subtotal (3) | Fonte de isolamento n: 136 | %: 77,7 | n: 31 | %: 17,7 | Líquido pleural n: 3 | %: 1,7 | Outros líquidos estéreis* n: 5 | %: 2,9 | n: 175 | %: 42,1",
+      "sentenca_id": "sireva_2021_t0037",
+      "relatorio": "sireva_2021",
+      "pagina": 21
+    }
+  },
+  {
+    "id": 8,
+    "data": {
+      "text": "Tabela 3. Número de isolados invasivos por grupo etário e fonte de isolamento. | < 12 meses | 9 | %: 23,08 | 26 | 66,67 | 4 | 10,26 | Total n: 39 | %: 10,24",
+      "sentenca_id": "sireva_2024_t0109",
+      "relatorio": "sireva_2024",
+      "pagina": 16
+    }
+  },
+  {
+    "id": 9,
+    "data": {
+      "text": "Tabela 2. Número de cepas por diagnóstico e grupo etário. | Sem dado | Diagnóstico: 3 | 75,0 | Meningite e sepse: 0 | 0,0 | 1 | 25,0 | 0 | 0,0 | 4 | 1,3",
+      "sentenca_id": "sireva_2014_t0025",
+      "relatorio": "sireva_2014",
+      "pagina": 15
+    }
+  },
+  {
+    "id": 10,
+    "data": {
+      "text": "Tabela 5. Suscetibilidade de cepas aos diferentes antimicrobianos. | 24-59 meses | 17 | 6 | 35,3 | 11 | 64,7 | 0 | 0,0",
+      "sentenca_id": "sireva_2016_t0068",
+      "relatorio": "sireva_2016",
+      "pagina": 20
+    }
+  },
+  {
+    "id": 11,
+    "data": {
+      "text": "Tabela 3. Número de cepas invasivas por grupo etário e fonte de isolamento | Grupo etário: ≥ 60 anos | Hemocultura: 91 | 82,7 | LCR: 17 | 15,5 | 0 | 0,0 | 2 | 1,8 | Total: 110 | 26,4",
+      "sentenca_id": "sireva_2021_t0036",
+      "relatorio": "sireva_2021",
+      "pagina": 21
+    }
+  },
+  {
+    "id": 12,
+    "data": {
+      "text": "Tabela 1. Número de cepas por grupo etário e sexo. | Grupo etário: 50-59 anos | 48 | 73,8 | 17 | 26,2 | 0 | 0,0 | 65 | 15,6",
+      "sentenca_id": "sireva_2021_t0009",
+      "relatorio": "sireva_2021",
+      "pagina": 19
+    }
+  },
+  {
+    "id": 13,
+    "data": {
+      "text": "Tabela 2. Número de cepas invasivas por diagnóstico e grupo etário. | Subtotal (1) | Diagnóstico n: 26 | %: 14,9 | n: 80 | %: 45,7 | Sepsis/ Bacteriemia n: 68 | %: 38,9 | n: 1 | %: 0,6 | n: 175 | %: 21,0",
+      "sentenca_id": "sireva_2019_t0057",
+      "relatorio": "sireva_2019",
+      "pagina": 22
+    }
+  },
+  {
+    "id": 14,
+    "data": {
+      "text": "Tabela 1. Número de cepas por grupo etário e sexo | Grupo etário: Subtotal (1) | Sexo Masculino n: 26 | %: 45,6 | Feminino n: 29 | %: 50,9 | Sem dado n: 2 | %: 3,5 | Total n: 57 | %: 40,4",
+      "sentenca_id": "sireva_2016_t0004",
+      "relatorio": "sireva_2016",
+      "pagina": 4
+    }
+  },
+  {
+    "id": 15,
+    "data": {
+      "text": "Tabela 2. Número de cepas por diagnóstico e grupo etário. | Grupo etário: 24-59 meses | Diagnóstico Meningite N: 5 | %: 45,5 | n: 0 | %: 0,0 | Sepse n: 6 | %: 54,4 | Total n: 11 | %: 6,5",
+      "sentenca_id": "sireva_2019_t0012",
+      "relatorio": "sireva_2019",
+      "pagina": 15
+    }
+  },
+  {
+    "id": 16,
+    "data": {
+      "text": "Tabela 1. Número de cepas por grupo etário e sexo. | Total | Sexo Masculino n: 782 | %: 57,2 | Feminino n: 582 | %: 42,5 | Sem dado n: 4 | %: 0,3 | Total n: 1368 | %: 100,0",
+      "sentenca_id": "sireva_2022_t0066",
+      "relatorio": "sireva_2022",
+      "pagina": 19
+    }
+  },
+  {
+    "id": 17,
+    "data": {
+      "text": "Tabela 1. Número de cepas por grupo etário e sexo. | 5-14 anos | 55 | 57,3 | 41 | 42,7 | 0 | 0,0 | 96 | 25,0",
+      "sentenca_id": "sireva_2013_t0005",
+      "relatorio": "sireva_2013",
+      "pagina": 14
+    }
+  },
+  {
+    "id": 18,
+    "data": {
+      "text": "Tabela 8. Suscetibilidade a diferentes antimicrobianos por grupo etário. | 50-59 anos | 62 | 56 | 90,3 | 3 | 4,8 | 3 | 4,8",
+      "sentenca_id": "sireva_2016_t0146",
+      "relatorio": "sireva_2016",
+      "pagina": 37
+    }
+  },
+  {
+    "id": 19,
+    "data": {
+      "text": "Tabela 2. Número de cepas por diagnóstico e grupo etário. | 30-49 anos | Diagnóstico: 50 | 60,2 | Meningite e sepse: 0 | 0,0 | 33 | 39,8 | 0 | 0,0 | 83 | 21,6",
+      "sentenca_id": "sireva_2013_t0020",
+      "relatorio": "sireva_2013",
+      "pagina": 15
+    }
+  },
+  {
+    "id": 20,
+    "data": {
+      "text": "Subtotal (1) | 145 | Cloranfenicol (KB ou CIM) Suscetível n: 145 | %: 23,1 | Resistente n: 0 | %: 0",
+      "sentenca_id": "sireva_2018_t0174",
+      "relatorio": "sireva_2018",
+      "pagina": 37
+    }
+  },
+  {
+    "id": 21,
+    "data": {
+      "text": "Tabela 2. Número de cepas invasivas por diagnóstico e grupo etário. | Grupo etário: 24-59 meses | Pneumonia: 4 | 19,0 | Meningites: 3 | 14,3 | 14 | 66,7 | Outros*: 0 | 0,0 | Total: 21 | 5,9",
+      "sentenca_id": "sireva_2020_t0025",
+      "relatorio": "sireva_2020",
+      "pagina": 20
+    }
+  },
+  {
+    "id": 22,
+    "data": {
+      "text": "Tabela 2. Número de cepas por diagnóstico e grupo etário. | Subtotal (2) | 6 | 22,2 | 10 | 37,0 | 11 | 40,7 | 27 | 21,3",
+      "sentenca_id": "sireva_2017_t0021",
+      "relatorio": "sireva_2017",
+      "pagina": 5
+    }
+  },
+  {
+    "id": 23,
+    "data": {
+      "text": "< 12 meses | 82 | Eritromicina (KB ou CIM): 65 | 79,3 | 0 | 0,0 | 17 | 20,7",
+      "sentenca_id": "sireva_2013_t0132",
+      "relatorio": "sireva_2013",
+      "pagina": 37
+    }
+  },
+  {
+    "id": 24,
+    "data": {
+      "text": "Tabela 3. Número de cepas invasivas por grupo etário e fonte de isolamento | Grupo etário: < 12 meses | Fonte de isolamento Hemocultura N: 26 | %: 6,3 | LCR n: 33 | %: 10,3 | %: 0,0 | n: 3 | %: 17,6 | Total n: 62 | %: 26",
+      "sentenca_id": "sireva_2018_t0092",
+      "relatorio": "sireva_2018",
+      "pagina": 23
+    }
+  },
+  {
+    "id": 25,
+    "data": {
+      "text": "Tabela 5. Suscetibilidade a penicilina por grupo etário e diagnóstico. | Sem dado | 38 | 97,4 | 1 | 2,6 | 0 | 0,0 | 39",
+      "sentenca_id": "sireva_2014_t0106",
+      "relatorio": "sireva_2014",
+      "pagina": 27
+    }
+  },
+  {
+    "id": 26,
+    "data": {
+      "text": "Grupo etário: 12-23 meses | n: 20 | Cloranfenicol Suscetível n: 20 | %: 100,0 | Resistente n: 0 | %: 0,0",
+      "sentenca_id": "sireva_2023_t0055",
+      "relatorio": "sireva_2023",
+      "pagina": 12
+    }
+  },
+  {
+    "id": 27,
+    "data": {
+      "text": "Tabela 2. Número de cepas por diagnóstico e grupo etário. | Grupo etário: 24-59 meses | Diagnóstico Meningite n: 8 | %: 72,7 | n: 0 | %: 0,0 | Sepse n: 3 | %: 27,3 | Total n: 11 | %: 5,8",
+      "sentenca_id": "sireva_2017_t0037",
+      "relatorio": "sireva_2017",
+      "pagina": 15
+    }
+  },
+  {
+    "id": 28,
+    "data": {
+      "text": "Tabela 1. Número de cepas por grupo etário e sexo. | Grupo etário: ≥ 60 anos | Sexo Masculino n: 6 | %: 26,1 | Feminino n: 17 | %: 73,9 | Sem dado n: 0 | %: 0,0 | Total n: 23 | %: 9,9",
+      "sentenca_id": "sireva_2018_t0033",
+      "relatorio": "sireva_2018",
+      "pagina": 14
+    }
+  },
+  {
+    "id": 29,
+    "data": {
+      "text": "24-59 meses | 19 | Ceftriaxona: 19 | 100,0 | 0 | %: 0,0",
+      "sentenca_id": "sireva_2024_t0039",
+      "relatorio": "sireva_2024",
+      "pagina": 12
+    }
+  },
+  {
+    "id": 30,
+    "data": {
+      "text": "Grupo etário: Subtotal (3) | n: 373 | Trimetoprim-Sulfametoxazol (KB ou CIM) Suscetível n: 234 | %: 62,7 | Intermediário n: 38 | %: 10,2 | Resistente n: 101 | %: 27,1",
+      "sentenca_id": "sireva_2015_t0197",
+      "relatorio": "sireva_2015",
+      "pagina": 38
+    }
+  },
+  {
+    "id": 31,
+    "data": {
+      "text": "Subtotal (1) | 372 | n: 372 | %: 100,0 | n: 0 | %: 0,0",
+      "sentenca_id": "sireva_2022_t0161",
+      "relatorio": "sireva_2022",
+      "pagina": 32
+    }
+  },
+  {
+    "id": 32,
+    "data": {
+      "text": "Tabela 5. Suscetibilidade a penicilina por grupo etário e diagnóstico. | Cepas de quadros não meningites Grupo etário: 15-29 anos | Suscetibilidade a penicilina Suscetível ≤ 2,0 µg/ml n: 27 | %: 6,9 | Intermediário 4,0 µg/ml n: 4 | %: 8,0 | Resistente ≥ 8,0 µg/ml n: 0 | %: 0,0 | Total n: 31",
+      "sentenca_id": "sireva_2018_t0114",
+      "relatorio": "sireva_2018",
+      "pagina": 26
+    }
+  },
+  {
+    "id": 33,
+    "data": {
+      "text": "Tabela 1. Número de cepas por grupo etário e sexo. | Sem dado | 6 | 66,7 | 2 | 22,2 | 1 | 11,1 | 9 | 4,1",
+      "sentenca_id": "sireva_2015_t0012",
+      "relatorio": "sireva_2015",
+      "pagina": 14
+    }
+  },
+  {
+    "id": 34,
+    "data": {
+      "text": "Tabela 2. Número de cepas por diagnóstico e grupo etário. | 15-29 anos | Diagnóstico: 50 | 69,4 | Meningite e sepse: 4 | 5,6 | 18 | 25,0 | 0 | 0,0 | 72 | 23,4",
+      "sentenca_id": "sireva_2014_t0019",
+      "relatorio": "sireva_2014",
+      "pagina": 15
+    }
+  },
+  {
+    "id": 35,
+    "data": {
+      "text": "Tabela 8. Suscetibilidade a diferentes antimicrobianos por grupo etário. | Grupo etário: Subtotal (2) | n: 233 | Suscetível n: 222 | %: 95,3 | Intermediário n: 11 | %: 4,7 | Resistente n: 0 | %: 0,0",
+      "sentenca_id": "sireva_2014_t0127",
+      "relatorio": "sireva_2014",
+      "pagina": 35
+    }
+  },
+  {
+    "id": 36,
+    "data": {
+      "text": "Tabela 3. Número de cepas invasivas por grupo etário e fonte de isolamento | Total | 453 | 100,0 | 270 | 100,0 | 22 | 100,0 | Outros líquidos estéreis*: 9 | 100,0 | Total n: 754 | 100,0",
+      "sentenca_id": "sireva_2017_t0097",
+      "relatorio": "sireva_2017",
+      "pagina": 24
+    }
+  },
+  {
+    "id": 37,
+    "data": {
+      "text": "Tabela 5. Suscetibilidade a penicilina por grupo etário e diagnóstico. | Cepas de quadros de meningites*: Subtotal (1) | Suscetibilidade a penicilina Suscetível ≤ 0,06 µg/ml n: 9 | %: 33,3 | Resistente ≥ 0,12 µg/ml n: 18 | %: 66,7 | n: 27",
+      "sentenca_id": "sireva_2021_t0043",
+      "relatorio": "sireva_2021",
+      "pagina": 24
+    }
+  },
+  {
+    "id": 38,
+    "data": {
+      "text": "Grupo etário: 50-59 anos | n: 22 | Suscetível: 16 | 72,7 | 0 | 0,0 | Resistente: 6 | 27,3",
+      "sentenca_id": "sireva_2023_t0084",
+      "relatorio": "sireva_2023",
+      "pagina": 13
+    }
+  },
+  {
+    "id": 39,
+    "data": {
+      "text": "Grupo etário: Subtotal (2) | n: 40 | Rifampicina Suscetível n: 40 | %: 100,0 | Resistente n: 0 | %: 0,0",
+      "sentenca_id": "sireva_2024_t0068",
+      "relatorio": "sireva_2024",
+      "pagina": 13
+    }
+  },
+  {
+    "id": 40,
+    "data": {
+      "text": "Tabela 1. Número de isolados invasivos por grupo etário e sexo. | Grupo etário: Subtotal (2) | Sexo Masculino n: 132 | %: 61,40 | Feminino n: 83 | %: 38,60 | Sem dado n: 0 | %: 0,00 | Total n: 215 | %: 56,43",
+      "sentenca_id": "sireva_2024_t0090",
+      "relatorio": "sireva_2024",
+      "pagina": 14
+    }
+  },
+  {
+    "id": 41,
+    "data": {
+      "text": "Grupo etário: Subtotal (1) | n: 149 | Sulfametoxazol-Trimetoprim (KB ou CIM) Suscetível n: 66 | %: 44,3 | Intermediário n: 12 | %: 8,1 | Resistente n: 71 | %: 47,7",
+      "sentenca_id": "sireva_2016_t0177",
+      "relatorio": "sireva_2016",
+      "pagina": 38
+    }
+  },
+  {
+    "id": 42,
+    "data": {
+      "text": "Grupo etário: 5-14 anos | n#: 25 | Sulfametoxazol-Trimetoprim (KB ou CIM)& Suscetível n: 16 | %: 64,0 | Intermediário n: 0 | %: 0,0 | Resistente n: 9 | %: 36,0",
+      "sentenca_id": "sireva_2020_t0065",
+      "relatorio": "sireva_2020",
+      "pagina": 30
+    }
+  },
+  {
+    "id": 43,
+    "data": {
+      "text": "Tabela 5. Suscetibilidade a penicilina por grupo etário e diagnóstico. | Cepas de quadros de meningites*: Total | Suscetibilidade a penicilina Suscetível ≤ 0,06 mg/mL n: 222 | %: 58,7 | Resistente ≥ 0,12 mg/mL n: 156 | %: 41,3 | n: 378",
+      "sentenca_id": "sireva_2023_t0166",
+      "relatorio": "sireva_2023",
+      "pagina": 27
+    }
+  },
+  {
+    "id": 44,
+    "data": {
+      "text": "Tabela 5. Suscetibilidade a penicilina por grupo etário e diagnóstico. | Cepas de quadros não meningites Grupo etário: Total | Suscetibilidade a penicilina Suscetível ≤ 2,0 µg/ml n: 482 | %: 93,4 | Intermediário 4,0 µg/ml n: 34 | %: 6,6 | Resistente ≥ 8,0 µg/ml n: 0 | %: 0,0 | Total n: 516",
+      "sentenca_id": "sireva_2016_t0137",
+      "relatorio": "sireva_2016",
+      "pagina": 27
+    }
+  },
+  {
+    "id": 45,
+    "data": {
+      "text": "Tabela 8. Suscetibilidade a diferentes antimicrobianos por grupo etário. | < 12 meses | 39 | Ceftriaxona não meningites (CIM): 37 | 94,9 | 2 | 5,1 | 0 | 0,0",
+      "sentenca_id": "sireva_2014_t0120",
+      "relatorio": "sireva_2014",
+      "pagina": 35
+    }
+  },
+  {
+    "id": 46,
+    "data": {
+      "text": "Tabela 2. Número de isolados invasivos por diagnóstico e grupo etário. | 30-49 anos | 3 | 9,4 | 18 | 56,3 | 10 | 31,3 | 1 | 3,1 | 32 | 12,1",
+      "sentenca_id": "sireva_2024_t0017",
+      "relatorio": "sireva_2024",
+      "pagina": 6
+    }
+  },
+  {
+    "id": 47,
+    "data": {
+      "text": "Subtotal (1) | n: 83 | Rifampicina Suscetível n: 83 | %: 100,0 | Resistente n: 0 | %: 0,0",
+      "sentenca_id": "sireva_2023_t0069",
+      "relatorio": "sireva_2023",
+      "pagina": 12
+    }
+  },
+  {
+    "id": 48,
+    "data": {
+      "text": "Tabela 1. Número de cepas por grupo etário e sexo. | Grupo etário: 30-49 anos | 163 | 64,9 | 88 | 35,1 | 0 | 0,0 | 251 | 18,3",
+      "sentenca_id": "sireva_2022_t0060",
+      "relatorio": "sireva_2022",
+      "pagina": 19
+    }
+  },
+  {
+    "id": 49,
+    "data": {
+      "text": "< 12 meses | 60 | 26 | 43,3 | 12 | 20,0 | 22 | 36,7",
+      "sentenca_id": "sireva_2015_t0187",
+      "relatorio": "sireva_2015",
+      "pagina": 38
+    }
+  },
+  {
+    "id": 50,
+    "data": {
+      "text": "Tabela 8. Suscetibilidade a diferentes antimicrobianos por grupo etário. | Subtotal (2) | 149 | Ceftriaxona não meningites (CIM) Suscetível n: 146 | %: 33,5 | Intermediário n: 3 | %: 21,4 | Resistente n: 0 | %: 0,0",
+      "sentenca_id": "sireva_2017_t0123",
+      "relatorio": "sireva_2017",
+      "pagina": 35
+    }
+  },
+  {
+    "id": 51,
+    "data": {
+      "text": "Tabela 6. Suscetibilidade de cepas aos diferentes antimicrobianos. | Subtotal (1) | 72 | Suscetível n: 55 | %: 76,4 | Intermediário n: 0 | %: 0,0 | Resistente n: 17 | %: 23,6",
+      "sentenca_id": "sireva_2022_t0024",
+      "relatorio": "sireva_2022",
+      "pagina": 9
+    }
+  },
+  {
+    "id": 52,
+    "data": {
+      "text": "Tabela 8. Suscetibilidade a diferentes antimicrobianos por grupo etário. | Grupo etário: 12-23 meses | n: 15 | Ceftriaxona meningites (CIM) Suscetível: 8 | 53,3 | Resistente: 7 | 46,7",
+      "sentenca_id": "sireva_2022_t0120",
+      "relatorio": "sireva_2022",
+      "pagina": 30
+    }
+  },
+  {
+    "id": 53,
+    "data": {
+      "text": "Tabela 2. Número de cepas invasivas por diagnóstico e grupo etário. | Subtotal (3) | Diagnóstico n: 18 | %: 11,5 | n: 33 | %: 21,2 | Sepsis/ Bacteriemia n: 101 | %: 64,7 | n: 4 | %: 2,6 | n: 156 | %: 43,9",
+      "sentenca_id": "sireva_2020_t0033",
+      "relatorio": "sireva_2020",
+      "pagina": 20
+    }
+  },
+  {
+    "id": 54,
+    "data": {
+      "text": "Tabela 3. Número de cepas por grupo etário e fonte de isolamento. | Grupo etário: 12-23 meses | Fonte de Isolamento Hemocultura n: 1 | %: 11,1 | LCR n: 8 | %: 88,9 | Total n: 9 | %: 4,7",
+      "sentenca_id": "sireva_2017_t0045",
+      "relatorio": "sireva_2017",
+      "pagina": 16
+    }
+  },
+  {
+    "id": 55,
+    "data": {
+      "text": "Tabela 5. Suscetibilidade de cepas aos diferentes antimicrobianos. | Subtotal (3) | 34 | 16 | 47,1 | 18 | 52,9 | 0 | 0,0",
+      "sentenca_id": "sireva_2019_t0038",
+      "relatorio": "sireva_2019",
+      "pagina": 19
+    }
+  },
+  {
+    "id": 56,
+    "data": {
+      "text": "Tabela 3. Número de cepas por grupo etário e fonte de isolamento. | Grupo etário: Subtotal (3) | Fonte de isolamento Hemocultura n: 16 | %: 42,1 | LCR n: 22 | %: 57,9 | Líquido Sinovial n: 0 | %: 0,0 | Total n: 38 | %: 9,9",
+      "sentenca_id": "sireva_2013_t0037",
+      "relatorio": "sireva_2013",
+      "pagina": 16
+    }
+  },
+  {
+    "id": 57,
+    "data": {
+      "text": "Total | 1273 | n: 1268 | %: 99,6 | n: 5 | %: 0,4",
+      "sentenca_id": "sireva_2022_t0168",
+      "relatorio": "sireva_2022",
+      "pagina": 32
+    }
+  },
+  {
+    "id": 58,
+    "data": {
+      "text": "Tabela 5. Suscetibilidade a penicilina por grupo etário e diagnóstico. | Cepas de quadros não meningites Grupo etário: ≥ 60 anos | Suscetibilidade a penicilina Suscetível ≤ 2,0 µg/ml n: 135 | %: 34,3 | Intermediário 4,0 µg/ml n: 9 | %: 18,0 | Resistente ≥ 8,0 µg/ml n: 0 | %: 0,0 | Total n: 144",
+      "sentenca_id": "sireva_2018_t0117",
+      "relatorio": "sireva_2018",
+      "pagina": 26
+    }
+  },
+  {
+    "id": 59,
+    "data": {
+      "text": "Tabela 8. Suscetibilidade a diferentes antimicrobianos por grupo etário. | 5-14 anos | 35 | 31 | 88,6 | 4 | 11,4 | 0 | 0,0",
+      "sentenca_id": "sireva_2013_t0112",
+      "relatorio": "sireva_2013",
+      "pagina": 36
+    }
+  },
+  {
+    "id": 60,
+    "data": {
+      "text": "Tabela 5. Suscetibilidade a penicilina por grupo etário e diagnóstico. | Cepas de quadros de meningites*: Total | Suscetibilidade a penicilina Suscetível ≤ 0,06 µg/ml n: 209 | %: 57,9 | Resistente ≥ 0,12 µg/ml n: 152 | %: 42,1 | n: 361",
+      "sentenca_id": "sireva_2019_t0092",
+      "relatorio": "sireva_2019",
+      "pagina": 26
+    }
+  },
+  {
+    "id": 61,
+    "data": {
+      "text": "Tabela 1. Número de cepas por grupo etário e sexo. | Grupo etário: 24-59 meses | Sexo Masculino n: 4 | %: 36,4 | Feminino n: 7 | %: 63,6 | Sem dado n: 0 | %: 0,0 | Total n: 11 | %: 5,8",
+      "sentenca_id": "sireva_2017_t0028",
+      "relatorio": "sireva_2017",
+      "pagina": 14
+    }
+  },
+  {
+    "id": 62,
+    "data": {
+      "text": "Tabela 2. Número de cepas por diagnóstico e grupo etário. | < 12 meses | 23 | 67,6 | 6 | 17,6 | 5 | 14,7 | 34 | 15,6",
+      "sentenca_id": "sireva_2015_t0014",
+      "relatorio": "sireva_2015",
+      "pagina": 15
+    }
+  },
+  {
+    "id": 63,
+    "data": {
+      "text": "Grupo etário: Sem dado | 0 | 0,0 | 0 | 0,0 | 0 | 0 | Total: 0",
+      "sentenca_id": "sireva_2023_t0178",
+      "relatorio": "sireva_2023",
+      "pagina": 28
+    }
+  },
+  {
+    "id": 64,
+    "data": {
+      "text": "Tabela 5. Suscetibilidade a penicilina por grupo etário e diagnóstico. | Grupo etário: 50-59 anos | 7 | 53,8 | 6 | 46,2 | Total: 13",
+      "sentenca_id": "sireva_2020_t0057",
+      "relatorio": "sireva_2020",
+      "pagina": 24
+    }
+  },
+  {
+    "id": 65,
+    "data": {
+      "text": "Tabela 8. Suscetibilidade a diferentes antimicrobianos por grupo etário. | Sem idade | 3 | Ceftriaxona meningites (CIM) Suscetível n: 2 | %: 0,7 | %: 0,0 | Resistente n: 1 | %: 6,7",
+      "sentenca_id": "sireva_2018_t0130",
+      "relatorio": "sireva_2018",
+      "pagina": 35
+    }
+  },
+  {
+    "id": 66,
+    "data": {
+      "text": "Tabela 8. Suscetibilidade a diferentes antimicrobianos por grupo etário. | Sem idade | 2 | Ceftriaxona não meningites (CIM) Suscetível n: 1 | %: 0,2 | Intermediário n: 1 | %: 4,2 | Resistente n: 0 | %: 0,0",
+      "sentenca_id": "sireva_2018_t0143",
+      "relatorio": "sireva_2018",
+      "pagina": 35
+    }
+  },
+  {
+    "id": 67,
+    "data": {
+      "text": "Grupo etário: Subtotal (3) | n: 65 | Sulfametoxazol - Trimetoprim - SXT (KB) Suscetível n: 51 | %: 78,5 | Suscetível, aumentanto exposição n: 0 | %: 0,0 | Resistente n: 14 | %: 21,5",
+      "sentenca_id": "sireva_2024_t0081",
+      "relatorio": "sireva_2024",
+      "pagina": 13
+    }
+  },
+  {
+    "id": 68,
+    "data": {
+      "text": "Subtotal (1) | 372 | Eritromicina (KB ou CIM)* n: 131 | %: 35,2 | Suscetível, aumentando exposição n: 0 | %: 0 | n: 241 | %: 64,8",
+      "sentenca_id": "sireva_2022_t0142",
+      "relatorio": "sireva_2022",
+      "pagina": 31
+    }
+  },
+  {
+    "id": 69,
+    "data": {
+      "text": "Grupo etário: Subtotal (2) | n: 110 | Ciprofloxacina (CIM) Suscetível n: 110 | %: 100,0 | Intermediário n: 0 | %: 0,0 | Resistente n: 0 | %: 0,0",
+      "sentenca_id": "sireva_2015_t0086",
+      "relatorio": "sireva_2015",
+      "pagina": 21
+    }
+  },
+  {
+    "id": 70,
+    "data": {
+      "text": "30-49 anos | 27 | 27 | 100,0 | 0 | 0,0 | 0 | 0,0",
+      "sentenca_id": "sireva_2015_t0085",
+      "relatorio": "sireva_2015",
+      "pagina": 21
+    }
+  },
+  {
+    "id": 71,
+    "data": {
+      "text": "24-59 meses | 52 | Eritromicina (KB ou CIM): 29 | 55,8 | 0 | 0,0 | 23 | 44,2",
+      "sentenca_id": "sireva_2014_t0134",
+      "relatorio": "sireva_2014",
+      "pagina": 36
+    }
+  },
+  {
+    "id": 72,
+    "data": {
+      "text": "Tabela 5. Suscetibilidade de cepas aos diferentes antimicrobianos. | Sem dado | n: 13 | Penicilina (CIM) Suscetível: 6 | 46,2 | Intermediário: 7 | 53,8 | Resistente: 0 | 0,0",
+      "sentenca_id": "sireva_2013_t0051",
+      "relatorio": "sireva_2013",
+      "pagina": 20
+    }
+  },
+  {
+    "id": 73,
+    "data": {
+      "text": "50-59 anos | 179 | Cloranfenicol (KB ou CIM): 177 | 98,9 | 2 | 1,1",
+      "sentenca_id": "sireva_2014_t0164",
+      "relatorio": "sireva_2014",
+      "pagina": 37
+    }
+  },
+  {
+    "id": 74,
+    "data": {
+      "text": "12-23 meses | n: 12 | Sulfametoxazol - Trimetoprim - SXT (KB) Suscetível n: 10 | %: 83,3 | Suscetível, aumentanto exposição n: 0 | %: 0,0 | Resistente n: 2 | 16,7",
+      "sentenca_id": "sireva_2024_t0072",
+      "relatorio": "sireva_2024",
+      "pagina": 13
+    }
+  },
+  {
+    "id": 75,
+    "data": {
+      "text": "Tabela 3. Número de cepas invasivas por grupo etário e fonte de isolamento | Total | Fonte de isolamento n: 250 | %: 70,4 | n: 88 | %: 24,8 | Líquido pleural n: 9 | %: 2,5 | Outros líquidos estéreis* n: 8 | %: 2,3 | n: 355 | %: 100",
+      "sentenca_id": "sireva_2020_t0048",
+      "relatorio": "sireva_2020",
+      "pagina": 21
+    }
+  },
+  {
+    "id": 76,
+    "data": {
+      "text": "Tabela 1. Número de isolados invasivos por grupo etário e sexo. | Total | Sexo Masculino n: 1080 | %: 57,1 | Feminino n: 810 | %: 42,8 | Sem dado n: 1 | %: 0,1 | Total n: 1891 | %: 100,0",
+      "sentenca_id": "sireva_2023_t0127",
+      "relatorio": "sireva_2023",
+      "pagina": 22
+    }
+  },
+  {
+    "id": 77,
+    "data": {
+      "text": "Tabela 8. Suscetibilidade a diferentes antimicrobianos por grupo etário. | 30-49 anos | 111 | Ceftriaxona não meningites (CIM): 107 | 96,4 | 4 | 3,6 | 0 | 0,0",
+      "sentenca_id": "sireva_2016_t0156",
+      "relatorio": "sireva_2016",
+      "pagina": 37
+    }
+  },
+  {
+    "id": 78,
+    "data": {
+      "text": "Tabela 1. Número de cepas por grupo etário e sexo | Subtotal (3) | 15 | 48,4 | 16 | 51,6 | 0 | 0,0 | 31 | 23,5",
+      "sentenca_id": "sireva_2018_t0011",
+      "relatorio": "sireva_2018",
+      "pagina": 4
+    }
+  },
+  {
+    "id": 79,
+    "data": {
+      "text": "Tabela 2. Número de cepas invasivas por diagnóstico e grupo etário. | Grupo etário: ≥ 60 anos | Pneumonia: 32 | 14,3 | Meningites: 63 | 28,3 | 127 | 57,0 | Outros*: 1 | 0,4 | Total: 223 | 26,8",
+      "sentenca_id": "sireva_2019_t0063",
+      "relatorio": "sireva_2019",
+      "pagina": 22
+    }
+  },
+  {
+    "id": 80,
+    "data": {
+      "text": "Grupo etário: 30-49 anos | n: 277 | Sulfametoxazol-Trimetoprim (KB ou CIM) & Suscetível n: 154 | %: 55,6 | n: 12 | %: 4,3 | Resistente n: 111 | %: 40,1",
+      "sentenca_id": "sireva_2023_t0216",
+      "relatorio": "sireva_2023",
+      "pagina": 36
+    }
+  },
+  {
+    "id": 81,
+    "data": {
+      "text": "Tabela 1. Número de cepas por grupo etário e sexo. | Grupo etário: 15-29 anos | 47 | 72,3 | 18 | 27,7 | 0 | 0,0 | 65 | 7,8",
+      "sentenca_id": "sireva_2019_t0046",
+      "relatorio": "sireva_2019",
+      "pagina": 21
+    }
+  },
+  {
+    "id": 82,
+    "data": {
+      "text": "Tabela 6. Suscetibilidade de cepas aos diferentes antimicrobianos. | Grupo etário: 24-59 meses | n: 13 | Sulfametoxazol - Trimetoprim - SXT (KB): 11 | 84,6 | 0 | 0,0 | 2 | 15,4",
+      "sentenca_id": "sireva_2022_t0035",
+      "relatorio": "sireva_2022",
+      "pagina": 9
+    }
+  },
+  {
+    "id": 83,
+    "data": {
+      "text": "Tabela 3. Número de isolados invasivos por grupo etário e fonte de isolamento. | Grupo etário: Sem dado | Fonte de Isolamento Hemocultura n: 0 | %: 0,0 | LCR n: 0 | %: 0,0 | Outros* n: 0 | %: 0,0 | Total n: 0 | %: 0,0",
+      "sentenca_id": "sireva_2023_t0114",
+      "relatorio": "sireva_2023",
+      "pagina": 16
+    }
+  },
+  {
+    "id": 84,
+    "data": {
+      "text": "Tabela 3. Número de cepas invasivas por grupo etário e fonte de isolamento | Grupo etário: < 12 meses | Hemocultura: 37 | 71,2 | LCR: 12 | 23,1 | 3 | 5,8 | 0 | 0,0 | Total: 52 | 12,5",
+      "sentenca_id": "sireva_2021_t0027",
+      "relatorio": "sireva_2021",
+      "pagina": 21
+    }
+  },
+  {
+    "id": 85,
+    "data": {
+      "text": "Tabela 2. Número de cepas invasivas por diagnóstico e grupo etário. | Subtotal (1) | Diagnóstico n: 16 | %: 14,8 | n: 29 | %: 26,9 | Sepsis/ Bacteriemia n: 63 | %: 58,3 | n: 0 | %: 0,0 | n: 108 | %: 26,0",
+      "sentenca_id": "sireva_2021_t0017",
+      "relatorio": "sireva_2021",
+      "pagina": 20
+    }
+  },
+  {
+    "id": 86,
+    "data": {
+      "text": "Tabela 5. Suscetibilidade de cepas aos diferentes antimicrobianos. | Sem dado | 9 | 4 | 44,4 | 5 | 55,6 | 0 | 0,0",
+      "sentenca_id": "sireva_2016_t0077",
+      "relatorio": "sireva_2016",
+      "pagina": 20
+    }
+  },
+  {
+    "id": 87,
+    "data": {
+      "text": "Tabela 1. Número de cepas por grupo etário e sexo. | ≥ 60 anos | 5 | 41,7 | 7 | 58,3 | 0 | 0,0 | 12 | 5,5",
+      "sentenca_id": "sireva_2015_t0010",
+      "relatorio": "sireva_2015",
+      "pagina": 14
+    }
+  },
+  {
+    "id": 88,
+    "data": {
+      "text": "Tabela 8. Suscetibilidade a diferentes antimicrobianos por grupo etário. | Grupo etário: Total | n: 498 | Suscetível n: 478 | %: 96,0 | Intermediário n: 20 | %: 4,0 | Resistente n: 0 | %: 0,0",
+      "sentenca_id": "sireva_2016_t0161",
+      "relatorio": "sireva_2016",
+      "pagina": 37
+    }
+  },
+  {
+    "id": 89,
+    "data": {
+      "text": "Tabela 3. Número de cepas por grupo etário e fonte de isolamento. | 5-14 anos | 10 | 26,3 | 28 | 73,7 | 38 | 17,4",
+      "sentenca_id": "sireva_2015_t0031",
+      "relatorio": "sireva_2015",
+      "pagina": 16
+    }
+  },
+  {
+    "id": 90,
+    "data": {
+      "text": "Tabela 5. Suscetibilidade de cepas aos diferentes antimicrobianos. | Subtotal (1) | 49 | 17 | 34,7 | 32 | 65,3 | 0 | 0,0",
+      "sentenca_id": "sireva_2019_t0031",
+      "relatorio": "sireva_2019",
+      "pagina": 19
+    }
+  },
+  {
+    "id": 91,
+    "data": {
+      "text": "Grupo etário: 5-14 anos | n: 20 | Cloranfenicol Suscetível n: 20 | %: 100,0 | Resistente n: 0 | %: 0,0",
+      "sentenca_id": "sireva_2023_t0058",
+      "relatorio": "sireva_2023",
+      "pagina": 12
+    }
+  },
+  {
+    "id": 92,
+    "data": {
+      "text": "Tabela 2. Número de cepas por diagnóstico e grupo etário. | Total | 19 | 14,4 | 44 | 33,3 | 69 | 52,3 | 132 | 100,0",
+      "sentenca_id": "sireva_2018_t0025",
+      "relatorio": "sireva_2018",
+      "pagina": 5
+    }
+  },
+  {
+    "id": 93,
+    "data": {
+      "text": "Tabela 1. Número de cepas por grupo etário e sexo. | Subtotal (2) | Sexo Masculino n: 86 | %: 61,4 | Feminino n: 53 | %: 37,9 | Sem dado n: 1 | %: 0,7 | Total n: 140 | %: 39,4",
+      "sentenca_id": "sireva_2020_t0017",
+      "relatorio": "sireva_2020",
+      "pagina": 19
+    }
+  },
+  {
+    "id": 94,
+    "data": {
+      "text": "Tabela 8. Suscetibilidade a diferentes antimicrobianos por grupo etário. | Grupo etário: 5-14 anos | n: 47 | Ceftriaxona meningites (CIM) Suscetível: 39 | 83,0 | Resistente: 8 | 17,0",
+      "sentenca_id": "sireva_2023_t0183",
+      "relatorio": "sireva_2023",
+      "pagina": 35
+    }
+  },
+  {
+    "id": 95,
+    "data": {
+      "text": "Tabela 3. Número de isolados invasivos por grupo etário e fonte de isolamento. | Grupo etário: Subtotal (1) | Fonte de Isolamento Hemocultura N: 27 | %: 30,00 | LCR n: 58 | %: 64,44 | Outros* n: 5 | %: 5,56 | Total n: 90 | %: 23,62",
+      "sentenca_id": "sireva_2024_t0112",
+      "relatorio": "sireva_2024",
+      "pagina": 16
+    }
+  },
+  {
+    "id": 96,
+    "data": {
+      "text": "Tabela 2. Número de cepas por diagnóstico e grupo etário. | Subtotal (1) | 10 | 14,7 | 27 | 39,7 | 31 | 45,6 | 68 | 53,5",
+      "sentenca_id": "sireva_2017_t0017",
+      "relatorio": "sireva_2017",
+      "pagina": 5
+    }
+  },
+  {
+    "id": 97,
+    "data": {
+      "text": "Tabela 8. Suscetibilidade a diferentes antimicrobianos por grupo etário. | Grupo etário: 12-23 meses | 50 | Ceftriaxona não meningites (CIM)& Suscetível n: 35 | %: 70,0 | Suscetível, aumentando exposição n: 15 | 30,0 | 0 | 0,0",
+      "sentenca_id": "sireva_2024_t0176",
+      "relatorio": "sireva_2024",
+      "pagina": 34
+    }
+  },
+  {
+    "id": 98,
+    "data": {
+      "text": "Tabela 1. Número de cepas por grupo etário e sexo. | Grupo etário: ≥ 60 anos | 185 | 48,9 | 193 | 51,1 | 0 | 0,0 | 378 | 27,6",
+      "sentenca_id": "sireva_2022_t0063",
+      "relatorio": "sireva_2022",
+      "pagina": 19
+    }
+  },
+  {
+    "id": 99,
+    "data": {
+      "text": "Tabela 1. Número de cepas por grupo etário e sexo. | Grupo etário: < 12 meses | Sexo Masculino: 44 | 58,7 | Feminino: 30 | 40,0 | Sem dado: 1 | 1,3 | Total: 75 | 8,8",
+      "sentenca_id": "sireva_2016_t0079",
+      "relatorio": "sireva_2016",
+      "pagina": 22
+    }
+  },
+  {
+    "id": 100,
+    "data": {
+      "text": "< 12 meses | 69 | Eritromicina (KB ou CIM): 61 | 88,4 | 0 | 0,0 | 8 | 11,6",
+      "sentenca_id": "sireva_2014_t0132",
+      "relatorio": "sireva_2014",
+      "pagina": 36
+    }
+  }
+]

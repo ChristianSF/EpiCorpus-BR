@@ -1,0 +1,9 @@
+EpiCorpus-BR annotations (data/extracted, data/extracted_tables, data/silver,
+data/silver_tables, data/gold, data/evaluation, annotation/) are licensed under
+the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+https://creativecommons.org/licenses/by/4.0/
+
+The corpus is derived from official public documents published by the
+Brazilian Ministry of Health, the Health Surveillance Secretariat and the
+Oswaldo Cruz Foundation. The source PDFs are not redistributed here; all
+rights to them remain with their original publishers.

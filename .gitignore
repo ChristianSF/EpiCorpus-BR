@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# uv
+.uv/
+
+# Environment variables (API keys)
+.env
+.env.local
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Scratch logs
+scratch_*.log
+*.log
+
+# Model checkpoints from the BERTimbau baseline
+checkpoints/
+outputs/
+runs/
+
+# PDFs (source documents, figures, paperwork) are not versioned
+*.pdf
+
+# Paper sources (LaTeX) are not versioned
+paper/
+*.tex
+
+# Legacy prototypes not part of EpiCorpus-BR (UD pipeline / early NER draft)
+Corpus_SIREVA_SUS.ipynb
+NER_SIREVA_SUS.ipynb

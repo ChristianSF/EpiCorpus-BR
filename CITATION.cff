@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: "If you use EpiCorpus-BR, please cite it as below."
+title: "EpiCorpus-BR: A Named Entity Recognition Corpus for Epidemiological Documents in Portuguese"
+type: dataset
+authors:
+  - family-names: Freitas
+    given-names: Christian
+    orcid: "https://orcid.org/0009-0001-4086-3455"
+    affiliation: "Universidade Federal de São Paulo (UNIFESP)"
+  - family-names: Berton
+    given-names: Lilian
+    orcid: "https://orcid.org/0000-0003-1397-6005"
+    affiliation: "Universidade Federal de São Paulo (UNIFESP)"
+repository-code: "https://github.com/ChristianSF/EpiCorpus-BR"
+license: CC-BY-4.0
+version: 1.0.0
+doi: "10.5753/stil.2026.26614"
+url: "https://aclanthology.org/2026.stil-1.13/"
+preferred-citation:
+  type: conference-paper
+  title: "EpiCorpus-BR: A Named Entity Recognition Corpus for Epidemiological Documents in Portuguese"
+  authors:
+    - family-names: Freitas
+      given-names: Christian
+    - family-names: Berton
+      given-names: Lilian
+  collection-title: "Proceedings of the 17th Brazilian Symposium in Information and Human Language Technology (STIL 2026)"
+  publisher:
+    name: "Association for Computational Linguistics"
+  conference:
+    name: "STIL 2026"
+    city: "Cuiabá"
+    country: BR
+  year: 2026
+  month: 10
+  start: 150
+  end: 162
+  doi: "10.5753/stil.2026.26614"
+  url: "https://aclanthology.org/2026.stil-1.13/"
+keywords:
+  - named entity recognition
+  - Portuguese
+  - epidemiology
+  - corpus
+  - SIREVA-SUS

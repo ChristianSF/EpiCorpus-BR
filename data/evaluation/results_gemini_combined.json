@@ -1,0 +1,68 @@
+{
+  "PATOGENO": {
+    "precision": 1.0,
+    "recall": 0.9286,
+    "f1": 0.963,
+    "support": 56
+  },
+  "SOROTIPO": {
+    "precision": 0.5833,
+    "recall": 0.6667,
+    "f1": 0.6222,
+    "support": 21
+  },
+  "FAIXA_ETARIA": {
+    "precision": 0.5478,
+    "recall": 0.3889,
+    "f1": 0.4549,
+    "support": 162
+  },
+  "LOCAL": {
+    "precision": 0.3563,
+    "recall": 0.2013,
+    "f1": 0.2573,
+    "support": 154
+  },
+  "PERIODO_TEMPORAL": {
+    "precision": 0.6667,
+    "recall": 0.5714,
+    "f1": 0.6154,
+    "support": 7
+  },
+  "METODO_LAB": {
+    "precision": 0.7,
+    "recall": 0.6087,
+    "f1": 0.6512,
+    "support": 92
+  },
+  "METRICA_EPI": {
+    "precision": 0.9409,
+    "recall": 0.9452,
+    "f1": 0.9431,
+    "support": 657
+  },
+  "MANIFESTACAO_CLINICA": {
+    "precision": 0.7059,
+    "recall": 0.6486,
+    "f1": 0.6761,
+    "support": 37
+  },
+  "micro avg": {
+    "precision": 0.8176,
+    "recall": 0.7293,
+    "f1": 0.7709,
+    "support": 1186
+  },
+  "macro avg": {
+    "precision": 0.6876,
+    "recall": 0.6199,
+    "f1": 0.6479,
+    "support": 1186
+  },
+  "weighted avg": {
+    "precision": 0.7801,
+    "recall": 0.7293,
+    "f1": 0.7497,
+    "support": 1186
+  }
+}

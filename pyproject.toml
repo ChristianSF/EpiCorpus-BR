@@ -1,0 +1,45 @@
+[project]
+name = "epicorpus-br"
+version = "1.0.0"
+description = "EpiCorpus-BR: a NER corpus for Brazilian Portuguese epidemiological documents (SIREVA-SUS)"
+readme = "README.md"
+license = { text = "MIT" }
+authors = [
+    { name = "Christian Freitas", email = "christian.freitas@unifesp.br" },
+    { name = "Lilian Berton", email = "lberton@unifesp.br" },
+]
+requires-python = ">=3.11"
+dependencies = [
+    "docling>=2.0",
+    "openai>=1.30",
+    "pandas>=2.2",
+    "seqeval>=1.2",
+    "python-dotenv>=1.0",
+    "matplotlib>=3.8",
+    "pdfplumber>=0.11.9",
+]
+
+[project.optional-dependencies]
+baseline = [
+    "numpy",
+    "torch",
+    "transformers",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[dependency-groups]
+dev = [
+    "pytest>=8.0",
+    "ipykernel>=6.0",
+]
+
+[tool.pytest.ini_options]
+markers = [
+    "integration: tests that require real PDF files and network access",
+]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src"]

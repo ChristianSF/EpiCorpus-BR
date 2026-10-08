@@ -1,0 +1,66 @@
+{
+  "n": 100,
+  "seed": 42,
+  "strata": {
+    "sireva_2013": {
+      "allocated": 8,
+      "sampled": 8,
+      "with_entity": 4
+    },
+    "sireva_2014": {
+      "allocated": 8,
+      "sampled": 8,
+      "with_entity": 6
+    },
+    "sireva_2015": {
+      "allocated": 9,
+      "sampled": 9,
+      "with_entity": 4
+    },
+    "sireva_2016": {
+      "allocated": 9,
+      "sampled": 9,
+      "with_entity": 4
+    },
+    "sireva_2017": {
+      "allocated": 8,
+      "sampled": 8,
+      "with_entity": 4
+    },
+    "sireva_2018": {
+      "allocated": 9,
+      "sampled": 9,
+      "with_entity": 5
+    },
+    "sireva_2019": {
+      "allocated": 8,
+      "sampled": 8,
+      "with_entity": 4
+    },
+    "sireva_2020": {
+      "allocated": 7,
+      "sampled": 7,
+      "with_entity": 5
+    },
+    "sireva_2021": {
+      "allocated": 6,
+      "sampled": 6,
+      "with_entity": 4
+    },
+    "sireva_2022": {
+      "allocated": 9,
+      "sampled": 9,
+      "with_entity": 6
+    },
+    "sireva_2023": {
+      "allocated": 10,
+      "sampled": 10,
+      "with_entity": 6
+    },
+    "sireva_2024": {
+      "allocated": 9,
+      "sampled": 9,
+      "with_entity": 6
+    }
+  }
+}

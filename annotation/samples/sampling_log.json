@@ -1,0 +1,116 @@
+{
+  "n": 180,
+  "seed": 42,
+  "strata": {
+    "boletim_eletronico_ano08_n17": {
+      "allocated": 6,
+      "sampled": 6,
+      "with_entity": 3
+    },
+    "boletim_eletronico_ano08_n18": {
+      "allocated": 7,
+      "sampled": 7,
+      "with_entity": 4
+    },
+    "boletim_eletronico_ano10_n03": {
+      "allocated": 6,
+      "sampled": 6,
+      "with_entity": 3
+    },
+    "boletim_epidemiologico_n25": {
+      "allocated": 12,
+      "sampled": 12,
+      "with_entity": 6
+    },
+    "boletim_epidemiologico_n38": {
+      "allocated": 9,
+      "sampled": 9,
+      "with_entity": 4
+    },
+    "boletim_epidemiologico_nesp": {
+      "allocated": 15,
+      "sampled": 15,
+      "with_entity": 8
+    },
+    "boletim_epidemiologico_v47_n29": {
+      "allocated": 7,
+      "sampled": 7,
+      "with_entity": 4
+    },
+    "boletim_epidemiologico_v50_n03": {
+      "allocated": 7,
+      "sampled": 7,
+      "with_entity": 4
+    },
+    "informe_meningite_ed01": {
+      "allocated": 7,
+      "sampled": 7,
+      "with_entity": 4
+    },
+    "informe_meningite_ed02": {
+      "allocated": 7,
+      "sampled": 7,
+      "with_entity": 4
+    },
+    "sireva_2013": {
+      "allocated": 8,
+      "sampled": 8,
+      "with_entity": 4
+    },
+    "sireva_2014": {
+      "allocated": 8,
+      "sampled": 8,
+      "with_entity": 4
+    },
+    "sireva_2015": {
+      "allocated": 8,
+      "sampled": 8,
+      "with_entity": 4
+    },
+    "sireva_2016": {
+      "allocated": 8,
+      "sampled": 8,
+      "with_entity": 4
+    },
+    "sireva_2017": {
+      "allocated": 7,
+      "sampled": 7,
+      "with_entity": 4
+    },
+    "sireva_2018": {
+      "allocated": 8,
+      "sampled": 8,
+      "with_entity": 4
+    },
+    "sireva_2019": {
+      "allocated": 8,
+      "sampled": 8,
+      "with_entity": 4
+    },
+    "sireva_2020": {
+      "allocated": 8,
+      "sampled": 8,
+      "with_entity": 4
+    },
+    "sireva_2021": {
+      "allocated": 8,
+      "sampled": 8,
+      "with_entity": 4
+    },
+    "sireva_2022": {
+      "allocated": 8,
+      "sampled": 8,
+      "with_entity": 4
+    },
+    "sireva_2023": {
+      "allocated": 9,
+      "sampled": 9,
+      "with_entity": 4
+    },
+    "sireva_2024": {
+      "allocated": 9,
+      "sampled": 9,
+      "with_entity": 4
+    }
+  }
+}

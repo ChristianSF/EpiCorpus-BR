@@ -1,0 +1,71 @@
+{
+  "sentences_compared": 180,
+  "total_tokens": 2397,
+  "overall": {
+    "token_agreement_pct": 90.45,
+    "cohen_kappa": 0.7611,
+    "mean_span_f1": 0.7819
+  },
+  "per_entity_token_kappa": {
+    "FAIXA_ETARIA": 0.6468,
+    "LOCAL": 0.2472,
+    "MANIFESTACAO_CLINICA": 0.3596,
+    "METODO_LAB": 0.2131,
+    "METRICA_EPI": 0.7253,
+    "PATOGENO": 0.8761,
+    "PERIODO_TEMPORAL": 0.4491,
+    "SOROTIPO": 0.6729
+  },
+  "per_entity_span_f1": {
+    "FAIXA_ETARIA": 0.8462,
+    "LOCAL": 0.7097,
+    "MANIFESTACAO_CLINICA": 0.6923,
+    "METODO_LAB": 0.5455,
+    "METRICA_EPI": 0.8387,
+    "PATOGENO": 0.9423,
+    "PERIODO_TEMPORAL": 0.7143,
+    "SOROTIPO": 0.5714
+  },
+  "per_entity_span_counts": {
+    "FAIXA_ETARIA": {
+      "intersect": 11,
+      "total_a": 13,
+      "total_b": 13
+    },
+    "LOCAL": {
+      "intersect": 55,
+      "total_a": 82,
+      "total_b": 73
+    },
+    "MANIFESTACAO_CLINICA": {
+      "intersect": 36,
+      "total_a": 42,
+      "total_b": 62
+    },
+    "METODO_LAB": {
+      "intersect": 6,
+      "total_a": 10,
+      "total_b": 12
+    },
+    "METRICA_EPI": {
+      "intersect": 13,
+      "total_a": 18,
+      "total_b": 13
+    },
+    "PATOGENO": {
+      "intersect": 49,
+      "total_a": 53,
+      "total_b": 51
+    },
+    "PERIODO_TEMPORAL": {
+      "intersect": 25,
+      "total_a": 27,
+      "total_b": 43
+    },
+    "SOROTIPO": {
+      "intersect": 6,
+      "total_a": 9,
+      "total_b": 12
+    }
+  }
+}

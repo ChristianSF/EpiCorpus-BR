@@ -1,0 +1,7222 @@
+[
+  {
+    "id": 1,
+    "data": {
+      "text": "Centro de Lab Regional - Instituto Adolfo Lutz de Campinas",
+      "sentenca_id": "sireva_2019_s0161",
+      "relatorio": "sireva_2019",
+      "pagina": 36
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t0_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 0,
+              "end": 58,
+              "text": "Centro de Lab Regional - Instituto Adolfo Lutz de Campinas",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "data": {
+      "text": "Número de cepas invasivas por diagnóstico e grupo etário.",
+      "sentenca_id": "sireva_2018_s0054",
+      "relatorio": "sireva_2018",
+      "pagina": 22
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "data": {
+      "text": "Número de cepas invasivas por diagnóstico e grupo etário.",
+      "sentenca_id": "sireva_2016_s0052",
+      "relatorio": "sireva_2016",
+      "pagina": 23
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "data": {
+      "text": "Nesse  contexto,  o  IAL monitora as características fenotípicas e moleculares das cepas de Neisseria meningitidis , Haemophilus influenzae e Streptococcus pneumoniae isoladas de casos  de  doenças  invasiv.s  nos  estados  brasileiros  através  da  vigilância nacional de base laboratorial,",
+      "sentenca_id": "sireva_2015_s0009",
+      "relatorio": "sireva_2015",
+      "pagina": 3
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t3_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 92,
+              "end": 114,
+              "text": "Neisseria meningitidis",
+              "labels": [
+                "PATOGENO"
+              ]
+            }
+          },
+          {
+            "id": "t3_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 117,
+              "end": 139,
+              "text": "Haemophilus influenzae",
+              "labels": [
+                "PATOGENO"
+              ]
+            }
+          },
+          {
+            "id": "t3_2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 142,
+              "end": 166,
+              "text": "Streptococcus pneumoniae",
+              "labels": [
+                "PATOGENO"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "data": {
+      "text": "Suscetibilidade a penicilina em ≥ 5 anos, por sorotipo e diagnóstico.",
+      "sentenca_id": "sireva_2020_s0088",
+      "relatorio": "sireva_2020",
+      "pagina": 27
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t4_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 32,
+              "end": 41,
+              "text": "≥ 5 anos,",
+              "labels": [
+                "FAIXA_ETARIA"
+              ]
+            }
+          },
+          {
+            "id": "t4_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 46,
+              "end": 54,
+              "text": "sorotipo",
+              "labels": [
+                "SOROTIPO"
+              ]
+            }
+          },
+          {
+            "id": "t4_2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 57,
+              "end": 69,
+              "text": "diagnóstico.",
+              "labels": [
+                "METODO_LAB"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "data": {
+      "text": "Os dados de suscetibilidade as drogas se referem às amostras diagnosticadas por cultura (n=219)",
+      "sentenca_id": "sireva_2023_s0060",
+      "relatorio": "sireva_2023",
+      "pagina": 11
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t5_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 80,
+              "end": 87,
+              "text": "cultura",
+              "labels": [
+                "METODO_LAB"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "data": {
+      "text": "Os dados de suscetibilidade as drogas se referem às amostras diagnosticadas por cultura (n=139)",
+      "sentenca_id": "sireva_2024_s0061",
+      "relatorio": "sireva_2024",
+      "pagina": 19
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t6_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 80,
+              "end": 87,
+              "text": "cultura",
+              "labels": [
+                "METODO_LAB"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "data": {
+      "text": "Centro de Bacteriologia Instituto Adolfo Lutz (IAL) São Paulo, Brasil",
+      "sentenca_id": "sireva_2019_s0238",
+      "relatorio": "sireva_2019",
+      "pagina": 38
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t7_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 0,
+              "end": 51,
+              "text": "Centro de Bacteriologia Instituto Adolfo Lutz (IAL)",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t7_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 52,
+              "end": 62,
+              "text": "São Paulo,",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t7_2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 63,
+              "end": 69,
+              "text": "Brasil",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "data": {
+      "text": "Centro de Bacteriologia Instituto Adolfo Lutz (IAL) São Paulo, Brasil",
+      "sentenca_id": "sireva_2022_s0290",
+      "relatorio": "sireva_2022",
+      "pagina": 37
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t8_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 0,
+              "end": 45,
+              "text": "Centro de Bacteriologia Instituto Adolfo Lutz",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t8_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 52,
+              "end": 62,
+              "text": "São Paulo,",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t8_2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 63,
+              "end": 69,
+              "text": "Brasil",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "data": {
+      "text": "Centro de Bacteriologia Instituto Adolfo Lutz (IAL) São Paulo, Brasil",
+      "sentenca_id": "sireva_2021_s0276",
+      "relatorio": "sireva_2021",
+      "pagina": 37
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t9_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 0,
+              "end": 51,
+              "text": "Centro de Bacteriologia Instituto Adolfo Lutz (IAL)",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t9_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 52,
+              "end": 62,
+              "text": "São Paulo,",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t9_2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 63,
+              "end": 69,
+              "text": "Brasil",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "data": {
+      "text": "Do total de 265 amostras H. influenzae : 166 se referem a cultura e 99 se referem a PCR em tempo real.",
+      "sentenca_id": "sireva_2024_s0019",
+      "relatorio": "sireva_2024",
+      "pagina": 5
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t10_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 58,
+              "end": 65,
+              "text": "cultura",
+              "labels": [
+                "METODO_LAB"
+              ]
+            }
+          },
+          {
+            "id": "t10_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 84,
+              "end": 102,
+              "text": "PCR em tempo real.",
+              "labels": [
+                "METODO_LAB"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "data": {
+      "text": "Para  a  análise  dos  dados  de  2024,  foram  reunidas  informações  da caracterização  de  isolados  bacterianos,  juntamente  com  os  resultados  do diagnóstico das meningites e pneumonias bacterianas realizados por meio de PCR em tempo real a partir de amostras clínicas.",
+      "sentenca_id": "sireva_2024_s0014",
+      "relatorio": "sireva_2024",
+      "pagina": 4
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t11_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 34,
+              "end": 39,
+              "text": "2024,",
+              "labels": [
+                "PERIODO_TEMPORAL"
+              ]
+            }
+          },
+          {
+            "id": "t11_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 170,
+              "end": 180,
+              "text": "meningites",
+              "labels": [
+                "MANIFESTACAO_CLINICA"
+              ]
+            }
+          },
+          {
+            "id": "t11_2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 183,
+              "end": 205,
+              "text": "pneumonias bacterianas",
+              "labels": [
+                "MANIFESTACAO_CLINICA"
+              ]
+            }
+          },
+          {
+            "id": "t11_3",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 229,
+              "end": 246,
+              "text": "PCR em tempo real",
+              "labels": [
+                "METODO_LAB"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "data": {
+      "text": "Nesse  contexto,  o  IAL monitora as características fenotípicas e moleculares dos isolados de Neisseria meningitidis , Haemophilus influenzae e Streptococcus pneumoniae isoladas de casos  de  doenças  invasivas  nos  estados  brasileiros  através  da  vigilância nacional de base laboratorial.",
+      "sentenca_id": "sireva_2022_s0005",
+      "relatorio": "sireva_2022",
+      "pagina": 3
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t12_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 95,
+              "end": 117,
+              "text": "Neisseria meningitidis",
+              "labels": [
+                "PATOGENO"
+              ]
+            }
+          },
+          {
+            "id": "t12_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 120,
+              "end": 142,
+              "text": "Haemophilus influenzae",
+              "labels": [
+                "PATOGENO"
+              ]
+            }
+          },
+          {
+            "id": "t12_2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 145,
+              "end": 169,
+              "text": "Streptococcus pneumoniae",
+              "labels": [
+                "PATOGENO"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "data": {
+      "text": "Número de isolados invasivos por grupo etário e sexo.",
+      "sentenca_id": "sireva_2023_s0066",
+      "relatorio": "sireva_2023",
+      "pagina": 14
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "data": {
+      "text": "Hospital das Clínicas da Fac. de Medicina, Univ. Federal de",
+      "sentenca_id": "sireva_2020_s0269",
+      "relatorio": "sireva_2020",
+      "pagina": 35
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "data": {
+      "text": "Centro de Lab Regional - Instituto Adolfo Lutz de Santo André",
+      "sentenca_id": "sireva_2020_s0212",
+      "relatorio": "sireva_2020",
+      "pagina": 34
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t15_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 0,
+              "end": 46,
+              "text": "Centro de Lab Regional - Instituto Adolfo Lutz",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t15_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 50,
+              "end": 61,
+              "text": "Santo André",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "data": {
+      "text": "Centro de Lab Regional - Instituto Adolfo Lutz de S.J.R. Preto",
+      "sentenca_id": "sireva_2020_s0219",
+      "relatorio": "sireva_2020",
+      "pagina": 34
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t16_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 0,
+              "end": 62,
+              "text": "Centro de Lab Regional - Instituto Adolfo Lutz de S.J.R. Preto",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "data": {
+      "text": "Participantes dos Laboratórios de Saúde Pública dos Estados em 2017",
+      "sentenca_id": "sireva_2017_s0121",
+      "relatorio": "sireva_2017",
+      "pagina": 38
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t17_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 63,
+              "end": 67,
+              "text": "2017",
+              "labels": [
+                "PERIODO_TEMPORAL"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "data": {
+      "text": "Número de isolados invasivos por grupo etário e sexo.",
+      "sentenca_id": "sireva_2024_s0071",
+      "relatorio": "sireva_2024",
+      "pagina": 22
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "data": {
+      "text": "Nesse  contexto,  o  IAL monitora as características fenotípicas e moleculares das cepas de Neisseria meningitidis , Haemophilus influenzae e Streptococcus pneumoniae isoladas de casos  de  doenças  invasivas  nos  estados  brasileiros  através  da  vigilância nacional de base laboratorial.",
+      "sentenca_id": "sireva_2020_s0006",
+      "relatorio": "sireva_2020",
+      "pagina": 3
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t19_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 92,
+              "end": 114,
+              "text": "Neisseria meningitidis",
+              "labels": [
+                "PATOGENO"
+              ]
+            }
+          },
+          {
+            "id": "t19_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 117,
+              "end": 139,
+              "text": "Haemophilus influenzae",
+              "labels": [
+                "PATOGENO"
+              ]
+            }
+          },
+          {
+            "id": "t19_2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 142,
+              "end": 166,
+              "text": "Streptococcus pneumoniae",
+              "labels": [
+                "PATOGENO"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "data": {
+      "text": "Suscetibilidade a penicilina em < 5 anos, por sorotipo e diagnóstico.",
+      "sentenca_id": "sireva_2020_s0076",
+      "relatorio": "sireva_2020",
+      "pagina": 25
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t20_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 32,
+              "end": 41,
+              "text": "< 5 anos,",
+              "labels": [
+                "FAIXA_ETARIA"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "data": {
+      "text": "Hospital das Clínicas da Fac. de Medicina Federal da Bahia",
+      "sentenca_id": "sireva_2016_s0214",
+      "relatorio": "sireva_2016",
+      "pagina": 41
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t21_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 0,
+              "end": 58,
+              "text": "Hospital das Clínicas da Fac. de Medicina Federal da Bahia",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "data": {
+      "text": "Centro de Bacteriologia Instituto Adolfo Lutz (IAL) São Paulo, Brasil",
+      "sentenca_id": "sireva_2018_s0233",
+      "relatorio": "sireva_2018",
+      "pagina": 41
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t22_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 0,
+              "end": 51,
+              "text": "Centro de Bacteriologia Instituto Adolfo Lutz (IAL)",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t22_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 52,
+              "end": 62,
+              "text": "São Paulo,",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t22_2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 63,
+              "end": 69,
+              "text": "Brasil",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "data": {
+      "text": "Suscetibilidade a penicilina em ≥ 5 anos, por sorotipo e diagnóstico.",
+      "sentenca_id": "sireva_2022_s0088",
+      "relatorio": "sireva_2022",
+      "pagina": 27
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t23_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 32,
+              "end": 41,
+              "text": "≥ 5 anos,",
+              "labels": [
+                "FAIXA_ETARIA"
+              ]
+            }
+          },
+          {
+            "id": "t23_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 46,
+              "end": 54,
+              "text": "sorotipo",
+              "labels": [
+                "SOROTIPO"
+              ]
+            }
+          },
+          {
+            "id": "t23_2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 57,
+              "end": 69,
+              "text": "diagnóstico.",
+              "labels": [
+                "METODO_LAB"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "data": {
+      "text": "Centro de Lab Regional - Instituto Adolfo Lutz de Marília",
+      "sentenca_id": "sireva_2018_s0175",
+      "relatorio": "sireva_2018",
+      "pagina": 39
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "data": {
+      "text": "Centro de Bacteriologia Instituto Adolfo Lutz (IAL) São Paulo, Brasil",
+      "sentenca_id": "sireva_2017_s0225",
+      "relatorio": "sireva_2017",
+      "pagina": 41
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t25_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 0,
+              "end": 51,
+              "text": "Centro de Bacteriologia Instituto Adolfo Lutz (IAL)",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t25_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 52,
+              "end": 62,
+              "text": "São Paulo,",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t25_2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 63,
+              "end": 69,
+              "text": "Brasil",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "data": {
+      "text": "Hospital das Clinicas da Fac. de Medicina da USP",
+      "sentenca_id": "sireva_2014_s0226",
+      "relatorio": "sireva_2014",
+      "pagina": 40
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "data": {
+      "text": "Nota : Foram realizados testes de sensibilidade aos antimicrobianos em 166 cepas de Neisseria meningitidis ( 98,0%)",
+      "sentenca_id": "sireva_2019_s0048",
+      "relatorio": "sireva_2019",
+      "pagina": 20
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t27_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 24,
+              "end": 47,
+              "text": "testes de sensibilidade",
+              "labels": [
+                "METODO_LAB"
+              ]
+            }
+          },
+          {
+            "id": "t27_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 84,
+              "end": 106,
+              "text": "Neisseria meningitidis",
+              "labels": [
+                "PATOGENO"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "data": {
+      "text": "Centro de Lab Regional - Instituto Adolfo Lutz de Rio Claro",
+      "sentenca_id": "sireva_2020_s0206",
+      "relatorio": "sireva_2020",
+      "pagina": 34
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t28_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 0,
+              "end": 46,
+              "text": "Centro de Lab Regional - Instituto Adolfo Lutz",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t28_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 50,
+              "end": 59,
+              "text": "Rio Claro",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "data": {
+      "text": "Unidade Integrada de Tecnologia da Informação e Comunicação Instituto Adolfo Lutz (IAL) São Paulo, Brasil.",
+      "sentenca_id": "sireva_2023_s0385",
+      "relatorio": "sireva_2023",
+      "pagina": 43
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t29_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 60,
+              "end": 81,
+              "text": "Instituto Adolfo Lutz",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t29_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 88,
+              "end": 98,
+              "text": "São Paulo,",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t29_2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 99,
+              "end": 106,
+              "text": "Brasil.",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "data": {
+      "text": "Sulfametoxazol + Trimetoprim - SXT (KB ou CIM)",
+      "sentenca_id": "sireva_2015_s0032",
+      "relatorio": "sireva_2015",
+      "pagina": 11
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "data": {
+      "text": "Suscetibilidade a penicilina em  <5 anos, por sorotipo e diagnóstico.",
+      "sentenca_id": "sireva_2017_s0075",
+      "relatorio": "sireva_2017",
+      "pagina": 29
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t31_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 33,
+              "end": 41,
+              "text": "<5 anos,",
+              "labels": [
+                "FAIXA_ETARIA"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "data": {
+      "text": "Suscetibilidade a penicilina em ≥5 anos, por sorotipo e diagnóstico.",
+      "sentenca_id": "sireva_2015_s0097",
+      "relatorio": "sireva_2015",
+      "pagina": 32
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t32_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 32,
+              "end": 40,
+              "text": "≥5 anos,",
+              "labels": [
+                "FAIXA_ETARIA"
+              ]
+            }
+          },
+          {
+            "id": "t32_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 45,
+              "end": 53,
+              "text": "sorotipo",
+              "labels": [
+                "SOROTIPO"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "data": {
+      "text": "Centro de Lab Regional - Instituto Adolfo Lutz de Santo André",
+      "sentenca_id": "sireva_2023_s0308",
+      "relatorio": "sireva_2023",
+      "pagina": 41
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t33_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 25,
+              "end": 46,
+              "text": "Instituto Adolfo Lutz",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t33_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 50,
+              "end": 61,
+              "text": "Santo André",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "data": {
+      "text": "Nesse  contexto,  o  IAL monitora as características fenotípicas e moleculares das cepas de Neisseria meningitidis , Haemophilus influenzae e Streptococcus pneumoniae isoladas de casos  de  doenças  invasivas  nos  estados  brasileiros  através  da  vigilância nacional de base laboratorial.",
+      "sentenca_id": "sireva_2013_s0010",
+      "relatorio": "sireva_2013",
+      "pagina": 3
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t34_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 92,
+              "end": 114,
+              "text": "Neisseria meningitidis",
+              "labels": [
+                "PATOGENO"
+              ]
+            }
+          },
+          {
+            "id": "t34_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 117,
+              "end": 139,
+              "text": "Haemophilus influenzae",
+              "labels": [
+                "PATOGENO"
+              ]
+            }
+          },
+          {
+            "id": "t34_2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 142,
+              "end": 166,
+              "text": "Streptococcus pneumoniae",
+              "labels": [
+                "PATOGENO"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "data": {
+      "text": "Nesse  contexto,  o  IAL monitora as características fenotípicas e moleculares das cepas de Neisseria meningitidis , Haemophilus influenzae e Streptococcus pneumoniae isoladas de casos  de  doenças  invasivas  nos  estados  brasileiros  através  da  vigilância nacional de base laboratorial.",
+      "sentenca_id": "sireva_2016_s0006",
+      "relatorio": "sireva_2016",
+      "pagina": 3
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t35_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 92,
+              "end": 114,
+              "text": "Neisseria meningitidis",
+              "labels": [
+                "PATOGENO"
+              ]
+            }
+          },
+          {
+            "id": "t35_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 117,
+              "end": 139,
+              "text": "Haemophilus influenzae",
+              "labels": [
+                "PATOGENO"
+              ]
+            }
+          },
+          {
+            "id": "t35_2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 142,
+              "end": 166,
+              "text": "Streptococcus pneumoniae",
+              "labels": [
+                "PATOGENO"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "data": {
+      "text": "Suscetibilidade a penicilina em < 5 anos, por sorotipo e diagnóstico.",
+      "sentenca_id": "sireva_2019_s0073",
+      "relatorio": "sireva_2019",
+      "pagina": 27
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t36_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 32,
+              "end": 41,
+              "text": "< 5 anos,",
+              "labels": [
+                "FAIXA_ETARIA"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "data": {
+      "text": "Suscetibilidade a penicilina em <5 anos, por sorotipo e diagnóstico.",
+      "sentenca_id": "sireva_2015_s0084",
+      "relatorio": "sireva_2015",
+      "pagina": 30
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t37_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 32,
+              "end": 40,
+              "text": "<5 anos,",
+              "labels": [
+                "FAIXA_ETARIA"
+              ]
+            }
+          },
+          {
+            "id": "t37_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 45,
+              "end": 53,
+              "text": "sorotipo",
+              "labels": [
+                "SOROTIPO"
+              ]
+            }
+          },
+          {
+            "id": "t37_2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 56,
+              "end": 68,
+              "text": "diagnóstico.",
+              "labels": [
+                "METODO_LAB"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "data": {
+      "text": "Centro de Lab Regional - Instituto Adolfo Lutz de Santos",
+      "sentenca_id": "sireva_2024_s0293",
+      "relatorio": "sireva_2024",
+      "pagina": 40
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t38_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 0,
+              "end": 46,
+              "text": "Centro de Lab Regional - Instituto Adolfo Lutz",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t38_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 50,
+              "end": 56,
+              "text": "Santos",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "data": {
+      "text": "Centro de Lab Regional - Instituto Adolfo Lutz de S.J.R. Preto",
+      "sentenca_id": "sireva_2016_s0219",
+      "relatorio": "sireva_2016",
+      "pagina": 41
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t39_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 0,
+              "end": 62,
+              "text": "Centro de Lab Regional - Instituto Adolfo Lutz de S.J.R. Preto",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "data": {
+      "text": "Centro de Lab Regional - Instituto Adolfo Lutz de Campinas",
+      "sentenca_id": "sireva_2016_s0182",
+      "relatorio": "sireva_2016",
+      "pagina": 41
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t40_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 0,
+              "end": 58,
+              "text": "Centro de Lab Regional - Instituto Adolfo Lutz de Campinas",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "data": {
+      "text": "Suscetibilidade a penicilina em <5 anos, por sorotipo e diagnóstico.",
+      "sentenca_id": "sireva_2013_s0086",
+      "relatorio": "sireva_2013",
+      "pagina": 30
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t41_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 32,
+              "end": 40,
+              "text": "<5 anos,",
+              "labels": [
+                "FAIXA_ETARIA"
+              ]
+            }
+          },
+          {
+            "id": "t41_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 45,
+              "end": 53,
+              "text": "sorotipo",
+              "labels": [
+                "SOROTIPO"
+              ]
+            }
+          },
+          {
+            "id": "t41_2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 56,
+              "end": 68,
+              "text": "diagnóstico.",
+              "labels": [
+                "METODO_LAB"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "data": {
+      "text": "# número de cepas sem dado de suscetibilidade a eritromicina n=24 e sem idade n=3.",
+      "sentenca_id": "sireva_2019_s0107",
+      "relatorio": "sireva_2019",
+      "pagina": 33
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "data": {
+      "text": "Centro de Lab Regional - Instituto Adolfo Lutz de Campinas",
+      "sentenca_id": "sireva_2023_s0275",
+      "relatorio": "sireva_2023",
+      "pagina": 41
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t43_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 0,
+              "end": 58,
+              "text": "Centro de Lab Regional - Instituto Adolfo Lutz de Campinas",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "data": {
+      "text": "Os dados de suscetibilidade as drogas se referem às amostras diagnosticadas por cultura",
+      "sentenca_id": "sireva_2023_s0111",
+      "relatorio": "sireva_2023",
+      "pagina": 27
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "data": {
+      "text": "Nesse  contexto,  o  IAL monitora as características fenotípicas e moleculares das cepas de Neisseria meningitidis , Haemophilus influenzae e Streptococcus pneumoniae isoladas de casos  de  doenças  invasivas  nos  estados  brasileiros  através  da  vigilância nacional de base laboratorial.",
+      "sentenca_id": "sireva_2019_s0006",
+      "relatorio": "sireva_2019",
+      "pagina": 3
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t45_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 92,
+              "end": 114,
+              "text": "Neisseria meningitidis",
+              "labels": [
+                "PATOGENO"
+              ]
+            }
+          },
+          {
+            "id": "t45_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 117,
+              "end": 139,
+              "text": "Haemophilus influenzae",
+              "labels": [
+                "PATOGENO"
+              ]
+            }
+          },
+          {
+            "id": "t45_2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 142,
+              "end": 166,
+              "text": "Streptococcus pneumoniae",
+              "labels": [
+                "PATOGENO"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "data": {
+      "text": "Consultora da Unidade Técnica de Saúde Familiar, Gênero e",
+      "sentenca_id": "sireva_2013_s0132",
+      "relatorio": "sireva_2013",
+      "pagina": 39
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "data": {
+      "text": "Hospital das Clínicas da Fac. de Medicina, UNICAMP",
+      "sentenca_id": "sireva_2020_s0190",
+      "relatorio": "sireva_2020",
+      "pagina": 34
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "data": {
+      "text": "No Estado de São Paulo, a vigilância de Neisseria meningitidis , Haemophilus influenzae e Streptococcus pneumoniae conta  com  a  parceria  da  rede  de  12 laboratórios  regionais  do  Instituto  Adolfo  Lutz  e  com  a  colaboração  dos hospitais públicos e privados.",
+      "sentenca_id": "sireva_2024_s0011",
+      "relatorio": "sireva_2024",
+      "pagina": 4
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t48_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 13,
+              "end": 23,
+              "text": "São Paulo,",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t48_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 40,
+              "end": 62,
+              "text": "Neisseria meningitidis",
+              "labels": [
+                "PATOGENO"
+              ]
+            }
+          },
+          {
+            "id": "t48_2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 65,
+              "end": 87,
+              "text": "Haemophilus influenzae",
+              "labels": [
+                "PATOGENO"
+              ]
+            }
+          },
+          {
+            "id": "t48_3",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 90,
+              "end": 114,
+              "text": "Streptococcus pneumoniae",
+              "labels": [
+                "PATOGENO"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "data": {
+      "text": "Participantes dos Laboratórios de Saúde Pública dos Estados em 2019 (LACENs com 5 isolados ou mais)",
+      "sentenca_id": "sireva_2019_s0124",
+      "relatorio": "sireva_2019",
+      "pagina": 35
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "data": {
+      "text": "Os dados de suscetibilidade as drogas se referem às amostras diagnosticadas por cultura (n=166)",
+      "sentenca_id": "sireva_2024_s0039",
+      "relatorio": "sireva_2024",
+      "pagina": 11
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t50_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 80,
+              "end": 87,
+              "text": "cultura",
+              "labels": [
+                "METODO_LAB"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "data": {
+      "text": "Hospital das Clínicas da Fac. de Medicina, UNICAMP",
+      "sentenca_id": "sireva_2024_s0270",
+      "relatorio": "sireva_2024",
+      "pagina": 40
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "data": {
+      "text": "Centro de Lab Regional - Instituto Adolfo Lutz de Campinas",
+      "sentenca_id": "sireva_2022_s0189",
+      "relatorio": "sireva_2022",
+      "pagina": 35
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t52_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 0,
+              "end": 58,
+              "text": "Centro de Lab Regional - Instituto Adolfo Lutz de Campinas",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "data": {
+      "text": "Suscetibilidade dos isolados invasivos aos diferentes antimicrobianos. .. 19",
+      "sentenca_id": "sireva_2024_s0005",
+      "relatorio": "sireva_2024",
+      "pagina": 2
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "data": {
+      "text": "Número de cepas por grupo etário e fonte de isolamento.",
+      "sentenca_id": "sireva_2020_s0041",
+      "relatorio": "sireva_2020",
+      "pagina": 14
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "data": {
+      "text": "Hospital das Clínicas da Fac. de Medicina Federal da Bahia",
+      "sentenca_id": "sireva_2020_s0208",
+      "relatorio": "sireva_2020",
+      "pagina": 34
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t55_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 0,
+              "end": 58,
+              "text": "Hospital das Clínicas da Fac. de Medicina Federal da Bahia",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "data": {
+      "text": "Suscetibilidade a penicilina em < 5 anos, por sorotipo e diagnóstico.",
+      "sentenca_id": "sireva_2016_s0070",
+      "relatorio": "sireva_2016",
+      "pagina": 28
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t56_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 32,
+              "end": 41,
+              "text": "< 5 anos,",
+              "labels": [
+                "FAIXA_ETARIA"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "data": {
+      "text": "Centro de Lab Regional - Instituto Adolfo Lutz de Campinas",
+      "sentenca_id": "sireva_2017_s0155",
+      "relatorio": "sireva_2017",
+      "pagina": 39
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t57_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 0,
+              "end": 58,
+              "text": "Centro de Lab Regional - Instituto Adolfo Lutz de Campinas",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "data": {
+      "text": "As cepas bacterianas são encaminhadas ao IAL pela rede de Laboratórios Centrais de Saúde Pública (LACENs) coordenada pela Secretaria de Vigilância em Saúde do Ministério da Saúde, pela rede de laboratório do IAL do Estado de São Paulo e hospitais do município de São Paulo.",
+      "sentenca_id": "sireva_2016_s0007",
+      "relatorio": "sireva_2016",
+      "pagina": 3
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t58_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 41,
+              "end": 44,
+              "text": "IAL",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t58_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 58,
+              "end": 96,
+              "text": "Laboratórios Centrais de Saúde Pública",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t58_2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 97,
+              "end": 105,
+              "text": "(LACENs)",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t58_3",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 122,
+              "end": 179,
+              "text": "Secretaria de Vigilância em Saúde do Ministério da Saúde,",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t58_4",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 215,
+              "end": 234,
+              "text": "Estado de São Paulo",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t58_5",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 250,
+              "end": 273,
+              "text": "município de São Paulo.",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "data": {
+      "text": "Suscetibilidade a penicilina em ≥ 5 anos, por sorotipo e diagnóstico.",
+      "sentenca_id": "sireva_2013_s0094",
+      "relatorio": "sireva_2013",
+      "pagina": 32
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t59_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 32,
+              "end": 41,
+              "text": "≥ 5 anos,",
+              "labels": [
+                "FAIXA_ETARIA"
+              ]
+            }
+          },
+          {
+            "id": "t59_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 46,
+              "end": 54,
+              "text": "sorotipo",
+              "labels": [
+                "SOROTIPO"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "data": {
+      "text": "Centro de Lab Regional - Instituto Adolfo Lutz de Rio Claro",
+      "sentenca_id": "sireva_2021_s0211",
+      "relatorio": "sireva_2021",
+      "pagina": 35
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t60_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 25,
+              "end": 46,
+              "text": "Instituto Adolfo Lutz",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t60_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 50,
+              "end": 59,
+              "text": "Rio Claro",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "data": {
+      "text": "Centro de Lab Regional - Instituto Adolfo Lutz de Santo André",
+      "sentenca_id": "sireva_2024_s0289",
+      "relatorio": "sireva_2024",
+      "pagina": 40
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t61_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 0,
+              "end": 46,
+              "text": "Centro de Lab Regional - Instituto Adolfo Lutz",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t61_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 50,
+              "end": 61,
+              "text": "Santo André",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "data": {
+      "text": "Número de cepas invasivas por diagnóstico e grupo etário.",
+      "sentenca_id": "sireva_2021_s0056",
+      "relatorio": "sireva_2021",
+      "pagina": 20
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "data": {
+      "text": "Centro de Lab Regional - Instituto Adolfo Lutz de Marília",
+      "sentenca_id": "sireva_2014_s0188",
+      "relatorio": "sireva_2014",
+      "pagina": 39
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "data": {
+      "text": "Hospital das Clínicas da Fac. de Medicina Federal da Bahia",
+      "sentenca_id": "sireva_2019_s0182",
+      "relatorio": "sireva_2019",
+      "pagina": 36
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t64_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 0,
+              "end": 58,
+              "text": "Hospital das Clínicas da Fac. de Medicina Federal da Bahia",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "data": {
+      "text": "No Estado de São Paulo, a vigilância de Neisseria meningitidis , Haemophilus influenzae e Streptococcus pneumoniae conta  com  a  parceria  da  rede  de  12 laboratórios  regionais  do  Instituto  Adolfo  Lutz  e  com  a  colaboração  dos hospitais públicos e privados..",
+      "sentenca_id": "sireva_2020_s0008",
+      "relatorio": "sireva_2020",
+      "pagina": 3
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t65_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 13,
+              "end": 23,
+              "text": "São Paulo,",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t65_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 40,
+              "end": 62,
+              "text": "Neisseria meningitidis",
+              "labels": [
+                "PATOGENO"
+              ]
+            }
+          },
+          {
+            "id": "t65_2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 65,
+              "end": 87,
+              "text": "Haemophilus influenzae",
+              "labels": [
+                "PATOGENO"
+              ]
+            }
+          },
+          {
+            "id": "t65_3",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 90,
+              "end": 114,
+              "text": "Streptococcus pneumoniae",
+              "labels": [
+                "PATOGENO"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "data": {
+      "text": "Suscetibilidade a penicilina em  ≥ 5 anos, por sorotipo e diagnóstico.",
+      "sentenca_id": "sireva_2016_s0094",
+      "relatorio": "sireva_2016",
+      "pagina": 34
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t66_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 33,
+              "end": 42,
+              "text": "≥ 5 anos,",
+              "labels": [
+                "FAIXA_ETARIA"
+              ]
+            }
+          },
+          {
+            "id": "t66_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 47,
+              "end": 55,
+              "text": "sorotipo",
+              "labels": [
+                "SOROTIPO"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "data": {
+      "text": "Participantes dos Laboratórios de Saúde Pública (LACENs) dos Estados em 2023",
+      "sentenca_id": "sireva_2023_s0211",
+      "relatorio": "sireva_2023",
+      "pagina": 39
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t67_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 48,
+              "end": 56,
+              "text": "(LACENs)",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t67_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 61,
+              "end": 68,
+              "text": "Estados",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t67_2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 72,
+              "end": 76,
+              "text": "2023",
+              "labels": [
+                "PERIODO_TEMPORAL"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "data": {
+      "text": "Centro de Lab Regional - Instituto Adolfo Lutz de P. Prudente",
+      "sentenca_id": "sireva_2022_s0205",
+      "relatorio": "sireva_2022",
+      "pagina": 35
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "data": {
+      "text": "Suscetibilidade a penicilina em < 5 anos, por sorotipo e diagnóstico.",
+      "sentenca_id": "sireva_2017_s0070",
+      "relatorio": "sireva_2017",
+      "pagina": 28
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t69_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 32,
+              "end": 41,
+              "text": "< 5 anos,",
+              "labels": [
+                "FAIXA_ETARIA"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "data": {
+      "text": "Centro Lab Regional - Instituto Adolfo Lutz de S.J.R. Preto",
+      "sentenca_id": "sireva_2013_s0201",
+      "relatorio": "sireva_2013",
+      "pagina": 40
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t70_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 0,
+              "end": 59,
+              "text": "Centro Lab Regional - Instituto Adolfo Lutz de S.J.R. Preto",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "data": {
+      "text": "Hospital das Clínicas da Fac. de Medicina Federal da Bahia",
+      "sentenca_id": "sireva_2017_s0179",
+      "relatorio": "sireva_2017",
+      "pagina": 39
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t71_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 0,
+              "end": 58,
+              "text": "Hospital das Clínicas da Fac. de Medicina Federal da Bahia",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "data": {
+      "text": "Nota: Dezenove (19) amostras diagnosticadas  por PCR em Tempo Real não foram genogrupadas.",
+      "sentenca_id": "sireva_2024_s0057",
+      "relatorio": "sireva_2024",
+      "pagina": 18
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t72_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 49,
+              "end": 66,
+              "text": "PCR em Tempo Real",
+              "labels": [
+                "METODO_LAB"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "data": {
+      "text": "No Estado de São Paulo, a vigilância de Neisseria meningitidis , Haemophilus influenzae e Streptococcus pneumoniae conta  com  a  parceria  da  rede  de  12 laboratórios  regionais  do  Instituto  Adolfo  Lutz  e  com  a  colaboração  dos hospitais públicos e privados.",
+      "sentenca_id": "sireva_2021_s0007",
+      "relatorio": "sireva_2021",
+      "pagina": 3
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t73_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 13,
+              "end": 23,
+              "text": "São Paulo,",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t73_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 40,
+              "end": 62,
+              "text": "Neisseria meningitidis",
+              "labels": [
+                "PATOGENO"
+              ]
+            }
+          },
+          {
+            "id": "t73_2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 65,
+              "end": 87,
+              "text": "Haemophilus influenzae",
+              "labels": [
+                "PATOGENO"
+              ]
+            }
+          },
+          {
+            "id": "t73_3",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 90,
+              "end": 114,
+              "text": "Streptococcus pneumoniae",
+              "labels": [
+                "PATOGENO"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "data": {
+      "text": "Centro de Lab Regional - Instituto Adolfo Lutz de S.J.R. Preto",
+      "sentenca_id": "sireva_2021_s0225",
+      "relatorio": "sireva_2021",
+      "pagina": 35
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t74_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 0,
+              "end": 62,
+              "text": "Centro de Lab Regional - Instituto Adolfo Lutz de S.J.R. Preto",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "data": {
+      "text": "Suscetibilidade a penicilina em <5 anos, por sorotipo e diagnóstico.",
+      "sentenca_id": "sireva_2015_s0075",
+      "relatorio": "sireva_2015",
+      "pagina": 28
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t75_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 32,
+              "end": 40,
+              "text": "<5 anos,",
+              "labels": [
+                "FAIXA_ETARIA"
+              ]
+            }
+          },
+          {
+            "id": "t75_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 45,
+              "end": 53,
+              "text": "sorotipo",
+              "labels": [
+                "SOROTIPO"
+              ]
+            }
+          },
+          {
+            "id": "t75_2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 56,
+              "end": 68,
+              "text": "diagnóstico.",
+              "labels": [
+                "METODO_LAB"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "data": {
+      "text": "Hospital das Clinicas da Fac. de Medicina da USP",
+      "sentenca_id": "sireva_2024_s0324",
+      "relatorio": "sireva_2024",
+      "pagina": 41
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "data": {
+      "text": "Número de cepas por diagnóstico e grupo etário.",
+      "sentenca_id": "sireva_2022_s0014",
+      "relatorio": "sireva_2022",
+      "pagina": 5
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "data": {
+      "text": "Número de isolados invasivos por grupo etário e sexo",
+      "sentenca_id": "sireva_2023_s0041",
+      "relatorio": "sireva_2023",
+      "pagina": 5
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "data": {
+      "text": "Do  total  de 381 amostras N  meningitidis :  139  se  referem  a  cultura  e  242 se referem a PCR em tempo real.",
+      "sentenca_id": "sireva_2024_s0046",
+      "relatorio": "sireva_2024",
+      "pagina": 14
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t79_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 67,
+              "end": 74,
+              "text": "cultura",
+              "labels": [
+                "METODO_LAB"
+              ]
+            }
+          },
+          {
+            "id": "t79_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 96,
+              "end": 114,
+              "text": "PCR em tempo real.",
+              "labels": [
+                "METODO_LAB"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "data": {
+      "text": "Suscetibilidade a penicilina por grupo etário e diagnóstico.",
+      "sentenca_id": "sireva_2023_s0109",
+      "relatorio": "sireva_2023",
+      "pagina": 27
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "data": {
+      "text": "Distribuição sorotipos capsulares das cepas invasivas por grupo etário  .. 25",
+      "sentenca_id": "sireva_2013_s0008",
+      "relatorio": "sireva_2013",
+      "pagina": 2
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "data": {
+      "text": "Centro de Bacteriologia Instituto Adolfo Lutz (IAL) São Paulo, Brasil",
+      "sentenca_id": "sireva_2023_s0380",
+      "relatorio": "sireva_2023",
+      "pagina": 43
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t82_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 0,
+              "end": 51,
+              "text": "Centro de Bacteriologia Instituto Adolfo Lutz (IAL)",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t82_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 52,
+              "end": 62,
+              "text": "São Paulo,",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t82_2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 63,
+              "end": 69,
+              "text": "Brasil",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "data": {
+      "text": "As  cepas  bacterianas  são  encaminhadas  ao  IAL-central  pela  rede  de Laboratórios  Centrais  de  Saúde  Pública  (LACENs)  coordenada  CGLAB  e CGDT, Secretaria de Vigilância em Saúde do Ministério da Saúde (SVS, MS), pela rede de laboratórios do Instituto Adolfo Lutz no Estado de São Paulo e por hospitais públicos e privados do Brasil.",
+      "sentenca_id": "sireva_2019_s0007",
+      "relatorio": "sireva_2019",
+      "pagina": 3
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t83_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 47,
+              "end": 58,
+              "text": "IAL-central",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t83_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 141,
+              "end": 146,
+              "text": "CGLAB",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t83_2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 150,
+              "end": 155,
+              "text": "CGDT,",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t83_3",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 156,
+              "end": 212,
+              "text": "Secretaria de Vigilância em Saúde do Ministério da Saúde",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t83_4",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 253,
+              "end": 274,
+              "text": "Instituto Adolfo Lutz",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t83_5",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 278,
+              "end": 297,
+              "text": "Estado de São Paulo",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t83_6",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 337,
+              "end": 344,
+              "text": "Brasil.",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "data": {
+      "text": "As  cepas  bacterianas  são  encaminhadas  ao  IAL-central,  localizado  na cidade  de  São  Paulo,  pela  rede  de  Laboratórios  Centrais  de  Saúde  Pública (LACENs) localizados um em cada estado do Brasil, e coordenada CGLAB e CGDT, Secretaria de Vigilância em Saúde do Ministério da Saúde (SVS, MS).",
+      "sentenca_id": "sireva_2021_s0006",
+      "relatorio": "sireva_2021",
+      "pagina": 3
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t84_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 47,
+              "end": 59,
+              "text": "IAL-central,",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t84_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 202,
+              "end": 209,
+              "text": "Brasil,",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t84_2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 223,
+              "end": 228,
+              "text": "CGLAB",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t84_3",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 231,
+              "end": 236,
+              "text": "CGDT,",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t84_4",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 237,
+              "end": 293,
+              "text": "Secretaria de Vigilância em Saúde do Ministério da Saúde",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t84_5",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 294,
+              "end": 299,
+              "text": "(SVS,",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t84_6",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 300,
+              "end": 304,
+              "text": "MS).",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "data": {
+      "text": "Centro de Lab Regional - Instituto Adolfo Lutz de Araçatuba",
+      "sentenca_id": "sireva_2021_s0185",
+      "relatorio": "sireva_2021",
+      "pagina": 35
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "data": {
+      "text": "Suscetibilidade a penicilina em <5 anos, por sorotipo e diagnóstico.",
+      "sentenca_id": "sireva_2021_s0083",
+      "relatorio": "sireva_2021",
+      "pagina": 26
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t86_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 32,
+              "end": 40,
+              "text": "<5 anos,",
+              "labels": [
+                "FAIXA_ETARIA"
+              ]
+            }
+          },
+          {
+            "id": "t86_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 45,
+              "end": 53,
+              "text": "sorotipo",
+              "labels": [
+                "SOROTIPO"
+              ]
+            }
+          },
+          {
+            "id": "t86_2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 56,
+              "end": 68,
+              "text": "diagnóstico.",
+              "labels": [
+                "METODO_LAB"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "data": {
+      "text": "Suscetibilidade a penicilina em <5 anos, por sorotipo e diagnóstico.",
+      "sentenca_id": "sireva_2019_s0079",
+      "relatorio": "sireva_2019",
+      "pagina": 28
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t87_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 32,
+              "end": 40,
+              "text": "<5 anos,",
+              "labels": [
+                "FAIXA_ETARIA"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "data": {
+      "text": "Nesse  contexto,  o  IAL monitora as características fenotípicas e moleculares dos isolados de Neisseria meningitidis , Haemophilus influenzae e Streptococcus pneumoniae isoladas de casos  de  doenças  invasivas  nos  estados  brasileiros  através  da  vigilância nacional de base laboratorial.",
+      "sentenca_id": "sireva_2023_s0032",
+      "relatorio": "sireva_2023",
+      "pagina": 4
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t88_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 95,
+              "end": 117,
+              "text": "Neisseria meningitidis",
+              "labels": [
+                "PATOGENO"
+              ]
+            }
+          },
+          {
+            "id": "t88_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 120,
+              "end": 142,
+              "text": "Haemophilus influenzae",
+              "labels": [
+                "PATOGENO"
+              ]
+            }
+          },
+          {
+            "id": "t88_2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 145,
+              "end": 169,
+              "text": "Streptococcus pneumoniae",
+              "labels": [
+                "PATOGENO"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "data": {
+      "text": "Irmandade da Santa Casa de Misericórdia de São Paulo",
+      "sentenca_id": "sireva_2013_s0224",
+      "relatorio": "sireva_2013",
+      "pagina": 41
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "data": {
+      "text": "Centro de Lab Regional - Instituto Adolfo Lutz de S.J.R. Preto",
+      "sentenca_id": "sireva_2022_s0230",
+      "relatorio": "sireva_2022",
+      "pagina": 35
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t90_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 0,
+              "end": 62,
+              "text": "Centro de Lab Regional - Instituto Adolfo Lutz de S.J.R. Preto",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "data": {
+      "text": "de Taipas, Geral de Vila Penteado, Vila Nova Cachoeirinha,",
+      "sentenca_id": "sireva_2021_s0269",
+      "relatorio": "sireva_2021",
+      "pagina": 36
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "data": {
+      "text": "Suscetibilidade a penicilina em  <5 anos, por sorotipo e diagnóstico.",
+      "sentenca_id": "sireva_2016_s0077",
+      "relatorio": "sireva_2016",
+      "pagina": 30
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t92_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 33,
+              "end": 41,
+              "text": "<5 anos,",
+              "labels": [
+                "FAIXA_ETARIA"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "data": {
+      "text": "Centro de Lab Regional - Instituto Adolfo Lutz de Campinas",
+      "sentenca_id": "sireva_2015_s0181",
+      "relatorio": "sireva_2015",
+      "pagina": 41
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t93_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 0,
+              "end": 58,
+              "text": "Centro de Lab Regional - Instituto Adolfo Lutz de Campinas",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "data": {
+      "text": "Centro de Lab Regional - Instituto Adolfo Lutz de Sorocaba",
+      "sentenca_id": "sireva_2022_s0282",
+      "relatorio": "sireva_2022",
+      "pagina": 36
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t94_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 25,
+              "end": 46,
+              "text": "Instituto Adolfo Lutz",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t94_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 50,
+              "end": 58,
+              "text": "Sorocaba",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "data": {
+      "text": "Os dados de suscetibilidade as drogas se referem às amostras diagnosticadas por cultura (n=166)",
+      "sentenca_id": "sireva_2024_s0033",
+      "relatorio": "sireva_2024",
+      "pagina": 10
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t95_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 80,
+              "end": 87,
+              "text": "cultura",
+              "labels": [
+                "METODO_LAB"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "data": {
+      "text": "Essa  vigilância  de  base  laboratorial  é  fundamental  para  se  avaliar  o impacto das  vacinas sobre os  sorogrupos e  sorotipos  dos  principais  agentes bacterianos causador de meningites e pneumonias, assim como para avaliar o perfil de resistência aos antimicrobianos.",
+      "sentenca_id": "sireva_2023_s0036",
+      "relatorio": "sireva_2023",
+      "pagina": 4
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "data": {
+      "text": "Participantes dos Laboratórios de Saúde Pública dos Estados em 2018 (LACENs com 10 isolados ou mais)",
+      "sentenca_id": "sireva_2018_s0129",
+      "relatorio": "sireva_2018",
+      "pagina": 38
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "data": {
+      "text": "*número de cepas sem dado de suscetibilidade a penicilina n=3.",
+      "sentenca_id": "sireva_2020_s0071",
+      "relatorio": "sireva_2020",
+      "pagina": 24
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "data": {
+      "text": "No Estado de São Paulo, a vigilância de Neisseria meningitidis , Haemophilus influenzae e Streptococcus pneumoniae conta  com  a  parceria  da  rede  de  12 laboratórios  regionais  do  Instituto  Adolfo  Lutz  e  com  a  colaboração  dos hospitais públicos e privados.",
+      "sentenca_id": "sireva_2022_s0007",
+      "relatorio": "sireva_2022",
+      "pagina": 3
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t99_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 13,
+              "end": 23,
+              "text": "São Paulo,",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t99_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 40,
+              "end": 62,
+              "text": "Neisseria meningitidis",
+              "labels": [
+                "PATOGENO"
+              ]
+            }
+          },
+          {
+            "id": "t99_2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 65,
+              "end": 87,
+              "text": "Haemophilus influenzae",
+              "labels": [
+                "PATOGENO"
+              ]
+            }
+          },
+          {
+            "id": "t99_3",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 90,
+              "end": 114,
+              "text": "Streptococcus pneumoniae",
+              "labels": [
+                "PATOGENO"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "data": {
+      "text": "Participantes dos Laboratórios de Saúde Pública dos Estados em 2015 (LACENs com 10 isolados ou mais)",
+      "sentenca_id": "sireva_2015_s0142",
+      "relatorio": "sireva_2015",
+      "pagina": 40
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "data": {
+      "text": "As cepas bacterianas são encaminhadas ao IAL pela rede de Laboratórios Centrais de Saúde Pública (LACENs) coordenada pela Secretaria de Vigilância em Saúde do Ministério da Saúde, pela rede de laboratório do IAL do Estado de São Paulo e hospitais do município de São Paulo.",
+      "sentenca_id": "sireva_2014_s0008",
+      "relatorio": "sireva_2014",
+      "pagina": 3
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t101_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 41,
+              "end": 44,
+              "text": "IAL",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t101_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 58,
+              "end": 96,
+              "text": "Laboratórios Centrais de Saúde Pública",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t101_2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 97,
+              "end": 105,
+              "text": "(LACENs)",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t101_3",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 122,
+              "end": 179,
+              "text": "Secretaria de Vigilância em Saúde do Ministério da Saúde,",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t101_4",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 215,
+              "end": 234,
+              "text": "Estado de São Paulo",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t101_5",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 250,
+              "end": 273,
+              "text": "município de São Paulo.",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "data": {
+      "text": "Unidade Integrada de Tecnologia da Informação e Comunicação Instituto Adolfo Lutz (IAL) São Paulo, Brasil.",
+      "sentenca_id": "sireva_2024_s0370",
+      "relatorio": "sireva_2024",
+      "pagina": 42
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t102_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 60,
+              "end": 81,
+              "text": "Instituto Adolfo Lutz",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t102_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 88,
+              "end": 98,
+              "text": "São Paulo,",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t102_2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 99,
+              "end": 106,
+              "text": "Brasil.",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "data": {
+      "text": "Hospital das Clinicas da Fac. de Medicina da USP",
+      "sentenca_id": "sireva_2016_s0234",
+      "relatorio": "sireva_2016",
+      "pagina": 42
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "data": {
+      "text": "Informação da vigilância das pneumonias e meningites bacterianas",
+      "sentenca_id": "sireva_2023_s0002",
+      "relatorio": "sireva_2023",
+      "pagina": 1
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "data": {
+      "text": "Suscetibilidade a penicilina em  ≥ 5 anos, por sorotipo e diagnóstico.",
+      "sentenca_id": "sireva_2024_s0125",
+      "relatorio": "sireva_2024",
+      "pagina": 32
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t105_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 33,
+              "end": 42,
+              "text": "≥ 5 anos,",
+              "labels": [
+                "FAIXA_ETARIA"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "data": {
+      "text": "Hospital das Clínicas da Fac. de Medicina Federal da Bahia",
+      "sentenca_id": "sireva_2013_s0198",
+      "relatorio": "sireva_2013",
+      "pagina": 40
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t106_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 0,
+              "end": 58,
+              "text": "Hospital das Clínicas da Fac. de Medicina Federal da Bahia",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "data": {
+      "text": "Suscetibilidade a penicilina em <5 anos, por sorotipo e diagnóstico.",
+      "sentenca_id": "sireva_2022_s0081",
+      "relatorio": "sireva_2022",
+      "pagina": 26
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t107_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 32,
+              "end": 40,
+              "text": "<5 anos,",
+              "labels": [
+                "FAIXA_ETARIA"
+              ]
+            }
+          },
+          {
+            "id": "t107_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 45,
+              "end": 53,
+              "text": "sorotipo",
+              "labels": [
+                "SOROTIPO"
+              ]
+            }
+          },
+          {
+            "id": "t107_2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 56,
+              "end": 68,
+              "text": "diagnóstico.",
+              "labels": [
+                "METODO_LAB"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "data": {
+      "text": "Número de cepas invasivas por grupo etário e fonte de isolamento",
+      "sentenca_id": "sireva_2019_s0057",
+      "relatorio": "sireva_2019",
+      "pagina": 23
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "data": {
+      "text": "Claudia Patara Saraceni (coordenadora) Amanda dos Santos Miliatti Unidade Integrada de Tecnologia da Informação e Comunicação Instituto Adolfo Lutz (IAL) São Paulo, Brasil.",
+      "sentenca_id": "sireva_2020_s0274",
+      "relatorio": "sireva_2020",
+      "pagina": 36
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t109_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 154,
+              "end": 164,
+              "text": "São Paulo,",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t109_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 165,
+              "end": 172,
+              "text": "Brasil.",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "data": {
+      "text": "Do total de 298 amostras H. influenzae : 219 se referem a cultura e 79 se referem a PCR em tempo real.",
+      "sentenca_id": "sireva_2023_s0042",
+      "relatorio": "sireva_2023",
+      "pagina": 5
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t110_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 58,
+              "end": 65,
+              "text": "cultura",
+              "labels": [
+                "METODO_LAB"
+              ]
+            }
+          },
+          {
+            "id": "t110_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 84,
+              "end": 102,
+              "text": "PCR em tempo real.",
+              "labels": [
+                "METODO_LAB"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "data": {
+      "text": "Diretor Geral do Instituto Adolfo Lutz, CCD, SES, São Paulo",
+      "sentenca_id": "sireva_2013_s0118",
+      "relatorio": "sireva_2013",
+      "pagina": 39
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t111_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 17,
+              "end": 39,
+              "text": "Instituto Adolfo Lutz,",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t111_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 50,
+              "end": 59,
+              "text": "São Paulo",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "data": {
+      "text": "Suscetibilidade a penicilina em ≥ 5 anos, por sorotipo e diagnóstico.",
+      "sentenca_id": "sireva_2020_s0094",
+      "relatorio": "sireva_2020",
+      "pagina": 28
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t112_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 32,
+              "end": 41,
+              "text": "≥ 5 anos,",
+              "labels": [
+                "FAIXA_ETARIA"
+              ]
+            }
+          },
+          {
+            "id": "t112_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 46,
+              "end": 54,
+              "text": "sorotipo",
+              "labels": [
+                "SOROTIPO"
+              ]
+            }
+          },
+          {
+            "id": "t112_2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 57,
+              "end": 69,
+              "text": "diagnóstico.",
+              "labels": [
+                "METODO_LAB"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "data": {
+      "text": "Suscetibilidade a penicilina em ≥ 5 anos, por sorotipo e diagnóstico.",
+      "sentenca_id": "sireva_2021_s0090",
+      "relatorio": "sireva_2021",
+      "pagina": 27
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t113_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 32,
+              "end": 41,
+              "text": "≥ 5 anos,",
+              "labels": [
+                "FAIXA_ETARIA"
+              ]
+            }
+          },
+          {
+            "id": "t113_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 46,
+              "end": 54,
+              "text": "sorotipo",
+              "labels": [
+                "SOROTIPO"
+              ]
+            }
+          },
+          {
+            "id": "t113_2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 57,
+              "end": 69,
+              "text": "diagnóstico.",
+              "labels": [
+                "METODO_LAB"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "data": {
+      "text": "Suscetibilidade a penicilina em  <5 anos, por sorotipo e diagnóstico.",
+      "sentenca_id": "sireva_2018_s0076",
+      "relatorio": "sireva_2018",
+      "pagina": 28
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t114_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 33,
+              "end": 41,
+              "text": "<5 anos,",
+              "labels": [
+                "FAIXA_ETARIA"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "data": {
+      "text": "Participantes dos Laboratórios de Saúde Pública (LACENs) dos Estados em 2022",
+      "sentenca_id": "sireva_2022_s0131",
+      "relatorio": "sireva_2022",
+      "pagina": 33
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t115_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 48,
+              "end": 56,
+              "text": "(LACENs)",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t115_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 61,
+              "end": 68,
+              "text": "Estados",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t115_2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 72,
+              "end": 76,
+              "text": "2022",
+              "labels": [
+                "PERIODO_TEMPORAL"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "data": {
+      "text": "Suscetibilidade a penicilina pela produção de Beta-lactamase de cepas por sorotipo e grupo etário.",
+      "sentenca_id": "sireva_2022_s0022",
+      "relatorio": "sireva_2022",
+      "pagina": 8
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "data": {
+      "text": "O  Núcleo  de  Meningites,  Pneumonias  e  Infecções  Pneumocócicas, Centro  de  Bacteriologia  do  Instituto  Adolfo  Lutz  (IAL),  é  o  Laboratório  de Referência Nacional para Meningites Bacterianas e para as Doenças Pneumocócicas  Invasivas  pelo  Ministério  da  Saúde.",
+      "sentenca_id": "sireva_2016_s0005",
+      "relatorio": "sireva_2016",
+      "pagina": 3
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "data": {
+      "text": "Centro de Lab Regional - Instituto Adolfo Lutz de Taubaté",
+      "sentenca_id": "sireva_2017_s0221",
+      "relatorio": "sireva_2017",
+      "pagina": 40
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "data": {
+      "text": "*Isolado com CIM=8 mg/L no grupo etário 24-59 meses (n=1).",
+      "sentenca_id": "sireva_2024_s0098",
+      "relatorio": "sireva_2024",
+      "pagina": 28
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t119_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 40,
+              "end": 51,
+              "text": "24-59 meses",
+              "labels": [
+                "FAIXA_ETARIA"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "data": {
+      "text": "Distribuição dos sorotipos de cepas por grupo etário e diagnóstico.",
+      "sentenca_id": "sireva_2022_s0020",
+      "relatorio": "sireva_2022",
+      "pagina": 7
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "data": {
+      "text": "Suscetibilidade a penicilina pela produção de beta-lactamase de cepas",
+      "sentenca_id": "sireva_2013_s0005",
+      "relatorio": "sireva_2013",
+      "pagina": 2
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "data": {
+      "text": "As cepas bacterianas são encaminhadas ao IAL pela rede de Laboratórios Centrais de Saúde Pública (LACENs) coordenada pela Secretaria de Vigilância em Saúde do Ministério da Saúde, pela rede de laboratório do IAL do Estado de São Paulo e hospitais do município de São Paulo.",
+      "sentenca_id": "sireva_2015_s0010",
+      "relatorio": "sireva_2015",
+      "pagina": 3
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t122_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 41,
+              "end": 44,
+              "text": "IAL",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t122_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 58,
+              "end": 96,
+              "text": "Laboratórios Centrais de Saúde Pública",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t122_2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 97,
+              "end": 105,
+              "text": "(LACENs)",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t122_3",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 122,
+              "end": 179,
+              "text": "Secretaria de Vigilância em Saúde do Ministério da Saúde,",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t122_4",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 215,
+              "end": 234,
+              "text": "Estado de São Paulo",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t122_5",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 250,
+              "end": 273,
+              "text": "município de São Paulo.",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "data": {
+      "text": "Suscetibilidade a penicilina em  ≥ 5 anos, por sorotipo e diagnóstico.",
+      "sentenca_id": "sireva_2017_s0091",
+      "relatorio": "sireva_2017",
+      "pagina": 33
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t123_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 33,
+              "end": 42,
+              "text": "≥ 5 anos,",
+              "labels": [
+                "FAIXA_ETARIA"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "data": {
+      "text": "Claudia Patara Saraceni (coordenadora) Amanda dos Santos Miliatti Adolfo Lutz (IAL) São Paulo, Brasil.",
+      "sentenca_id": "sireva_2021_s0281",
+      "relatorio": "sireva_2021",
+      "pagina": 37
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t124_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 84,
+              "end": 94,
+              "text": "São Paulo,",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t124_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 95,
+              "end": 102,
+              "text": "Brasil.",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "data": {
+      "text": "Suscetibilidade a penicilina em ≥ 5 anos, por sorotipo e diagnóstico.",
+      "sentenca_id": "sireva_2023_s0135",
+      "relatorio": "sireva_2023",
+      "pagina": 31
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t125_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 32,
+              "end": 41,
+              "text": "≥ 5 anos,",
+              "labels": [
+                "FAIXA_ETARIA"
+              ]
+            }
+          },
+          {
+            "id": "t125_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 46,
+              "end": 54,
+              "text": "sorotipo",
+              "labels": [
+                "SOROTIPO"
+              ]
+            }
+          },
+          {
+            "id": "t125_2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 57,
+              "end": 69,
+              "text": "diagnóstico.",
+              "labels": [
+                "METODO_LAB"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "data": {
+      "text": "Suscetibilidade a penicilina em  ≥ 5 anos, por sorotipo e diagnóstico.",
+      "sentenca_id": "sireva_2021_s0097",
+      "relatorio": "sireva_2021",
+      "pagina": 28
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t126_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 33,
+              "end": 42,
+              "text": "≥ 5 anos,",
+              "labels": [
+                "FAIXA_ETARIA"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "data": {
+      "text": "As  cepas  bacterianas  são  encaminhadas  ao  IAL-central  pela  rede  de Laboratórios  Centrais  de  Saúde  Pública  (LACENs)  coordenada  CGLAB  e CGDT, Secretaria de Vigilância em Saúde do Ministério da Saúde (SVS, MS), pela rede de laboratórios do Instituto Adolfo Lutz no Estado de São Paulo e por hospitais do município de São Paulo.",
+      "sentenca_id": "sireva_2018_s0007",
+      "relatorio": "sireva_2018",
+      "pagina": 3
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t127_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 47,
+              "end": 58,
+              "text": "IAL-central",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t127_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 141,
+              "end": 146,
+              "text": "CGLAB",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t127_2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 150,
+              "end": 155,
+              "text": "CGDT,",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t127_3",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 156,
+              "end": 212,
+              "text": "Secretaria de Vigilância em Saúde do Ministério da Saúde",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t127_4",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 253,
+              "end": 274,
+              "text": "Instituto Adolfo Lutz",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t127_5",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 278,
+              "end": 297,
+              "text": "Estado de São Paulo",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t127_6",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 317,
+              "end": 340,
+              "text": "município de São Paulo.",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "data": {
+      "text": "Suscetibilidade a penicilina em < 5 anos, por sorotipo e diagnóstico.",
+      "sentenca_id": "sireva_2024_s0103",
+      "relatorio": "sireva_2024",
+      "pagina": 29
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t128_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 32,
+              "end": 41,
+              "text": "< 5 anos,",
+              "labels": [
+                "FAIXA_ETARIA"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "data": {
+      "text": "Suscetibilidade a penicilina em ≥ 5 anos, por sorotipo e diagnóstico.",
+      "sentenca_id": "sireva_2016_s0087",
+      "relatorio": "sireva_2016",
+      "pagina": 32
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t129_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 32,
+              "end": 41,
+              "text": "≥ 5 anos,",
+              "labels": [
+                "FAIXA_ETARIA"
+              ]
+            }
+          },
+          {
+            "id": "t129_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 46,
+              "end": 54,
+              "text": "sorotipo",
+              "labels": [
+                "SOROTIPO"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "data": {
+      "text": "Centro de Lab Regional - Instituto Adolfo Lutz de S.J.R. Preto",
+      "sentenca_id": "sireva_2024_s0298",
+      "relatorio": "sireva_2024",
+      "pagina": 40
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t130_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 0,
+              "end": 62,
+              "text": "Centro de Lab Regional - Instituto Adolfo Lutz de S.J.R. Preto",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "data": {
+      "text": "*Isolado com CIM=8 mg/L no grupo etário 24-59 meses e sorotipo 19A (n=1) . # Não sorotipado: Sorotipagem não realizada devido limitação técnica, por exemplo isolado inviável ou fora dos padrões para realização da PCR em tempo real e/ou convencional.",
+      "sentenca_id": "sireva_2024_s0113",
+      "relatorio": "sireva_2024",
+      "pagina": 30
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t131_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 40,
+              "end": 51,
+              "text": "24-59 meses",
+              "labels": [
+                "FAIXA_ETARIA"
+              ]
+            }
+          },
+          {
+            "id": "t131_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 54,
+              "end": 66,
+              "text": "sorotipo 19A",
+              "labels": [
+                "SOROTIPO"
+              ]
+            }
+          },
+          {
+            "id": "t131_2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 213,
+              "end": 230,
+              "text": "PCR em tempo real",
+              "labels": [
+                "METODO_LAB"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "data": {
+      "text": "Centro de Lab Regional - Instituto Adolfo Lutz de Sorocaba",
+      "sentenca_id": "sireva_2019_s0233",
+      "relatorio": "sireva_2019",
+      "pagina": 37
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t132_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 25,
+              "end": 46,
+              "text": "Instituto Adolfo Lutz",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t132_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 50,
+              "end": 58,
+              "text": "Sorocaba",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "data": {
+      "text": "Suscetibilidade a penicilina em ≥ 5 anos, por sorotipo e diagnóstico.",
+      "sentenca_id": "sireva_2018_s0085",
+      "relatorio": "sireva_2018",
+      "pagina": 30
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t133_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 32,
+              "end": 41,
+              "text": "≥ 5 anos,",
+              "labels": [
+                "FAIXA_ETARIA"
+              ]
+            }
+          },
+          {
+            "id": "t133_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 46,
+              "end": 54,
+              "text": "sorotipo",
+              "labels": [
+                "SOROTIPO"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "data": {
+      "text": "Ana Paula Silva de Lemos - ana.lemos@ial.sp.gov.br Rosemeire Cobo Zanella - rosemeire.zanella@ial.sp.gov.br Samanta Cristine Grassi Almeida -samanta.almeida@ial.sp.gov.br Sérgio Bokermann - sergio.bokermann@ial.sp.gov.br",
+      "sentenca_id": "sireva_2022_s0292",
+      "relatorio": "sireva_2022",
+      "pagina": 37
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "data": {
+      "text": "Suscetibilidade dos isolados invasivos à penicilina pela produção de Beta-lactamase por sorotipo e grupo etário.",
+      "sentenca_id": "sireva_2024_s0031",
+      "relatorio": "sireva_2024",
+      "pagina": 10
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "data": {
+      "text": "Diretor Geral do Instituto Adolfo Lutz, CCD, SES, São Paulo",
+      "sentenca_id": "sireva_2020_s0117",
+      "relatorio": "sireva_2020",
+      "pagina": 32
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t136_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 17,
+              "end": 39,
+              "text": "Instituto Adolfo Lutz,",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t136_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 50,
+              "end": 59,
+              "text": "São Paulo",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "data": {
+      "text": "Centro de Lab Regional - Instituto Adolfo Lutz de Rio Claro",
+      "sentenca_id": "sireva_2013_s0196",
+      "relatorio": "sireva_2013",
+      "pagina": 40
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t137_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 0,
+              "end": 46,
+              "text": "Centro de Lab Regional - Instituto Adolfo Lutz",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t137_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 50,
+              "end": 59,
+              "text": "Rio Claro",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "data": {
+      "text": "Nesse  contexto,  o  IAL monitora as características fenotípicas e moleculares dos isolados de Neisseria meningitidis , Haemophilus influenzae e Streptococcus pneumoniae isolados de casos  de  doenças  invasivas  nos  estados  brasileiros  através  da  vigilância nacional de base laboratorial.",
+      "sentenca_id": "sireva_2024_s0009",
+      "relatorio": "sireva_2024",
+      "pagina": 4
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t138_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 95,
+              "end": 117,
+              "text": "Neisseria meningitidis",
+              "labels": [
+                "PATOGENO"
+              ]
+            }
+          },
+          {
+            "id": "t138_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 120,
+              "end": 142,
+              "text": "Haemophilus influenzae",
+              "labels": [
+                "PATOGENO"
+              ]
+            }
+          },
+          {
+            "id": "t138_2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 145,
+              "end": 169,
+              "text": "Streptococcus pneumoniae",
+              "labels": [
+                "PATOGENO"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "data": {
+      "text": "*Identificação do isolado de Streptococcus pneumoniae pela PCR tempo real para o gene lyt A e sorotipagem realizada através da metodologia da PCR convencional e/ou tempo real porém sem  possibilidade  técnica  de  identificação  do  sorotipo; # Sorotipagem  não  realizada  devido limitação técnica, por exemplo isolado inviável, material clínico insuficiente ou fora dos padrões para realização da PCR em tempo real.",
+      "sentenca_id": "sireva_2023_s0107",
+      "relatorio": "sireva_2023",
+      "pagina": 26
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t139_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 29,
+              "end": 53,
+              "text": "Streptococcus pneumoniae",
+              "labels": [
+                "PATOGENO"
+              ]
+            }
+          },
+          {
+            "id": "t139_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 59,
+              "end": 73,
+              "text": "PCR tempo real",
+              "labels": [
+                "METODO_LAB"
+              ]
+            }
+          },
+          {
+            "id": "t139_2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 94,
+              "end": 105,
+              "text": "sorotipagem",
+              "labels": [
+                "METODO_LAB"
+              ]
+            }
+          },
+          {
+            "id": "t139_3",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 142,
+              "end": 158,
+              "text": "PCR convencional",
+              "labels": [
+                "METODO_LAB"
+              ]
+            }
+          },
+          {
+            "id": "t139_4",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 399,
+              "end": 417,
+              "text": "PCR em tempo real.",
+              "labels": [
+                "METODO_LAB"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "data": {
+      "text": "Centro de Lab Regional - Instituto Adolfo Lutz de Sorocaba",
+      "sentenca_id": "sireva_2014_s0240",
+      "relatorio": "sireva_2014",
+      "pagina": 40
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t140_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 25,
+              "end": 46,
+              "text": "Instituto Adolfo Lutz",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t140_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 50,
+              "end": 58,
+              "text": "Sorocaba",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "data": {
+      "text": "Nesse  contexto,  o  IAL monitora as características fenotípicas e moleculares das cepas de Neisseria meningitidis , Haemophilus influenzae e Streptococcus pneumoniae isoladas de casos  de  doenças  invasivas  nos  estados  brasileiros  através  da  vigilância nacional de base laboratorial.",
+      "sentenca_id": "sireva_2014_s0007",
+      "relatorio": "sireva_2014",
+      "pagina": 3
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t141_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 92,
+              "end": 114,
+              "text": "Neisseria meningitidis",
+              "labels": [
+                "PATOGENO"
+              ]
+            }
+          },
+          {
+            "id": "t141_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 117,
+              "end": 139,
+              "text": "Haemophilus influenzae",
+              "labels": [
+                "PATOGENO"
+              ]
+            }
+          },
+          {
+            "id": "t141_2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 142,
+              "end": 166,
+              "text": "Streptococcus pneumoniae",
+              "labels": [
+                "PATOGENO"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "data": {
+      "text": "As cepas bacterianas são encaminhadas ao IAL pela rede de Laboratórios Centrais de Saúde Pública (LACENs) coordenada pela Secretaria de Vigilância em Saúde do Ministério da Saúde, pela rede de laboratório do IAL do Estado de São Paulo e hospitais do município de São Paulo.",
+      "sentenca_id": "sireva_2013_s0011",
+      "relatorio": "sireva_2013",
+      "pagina": 3
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t142_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 41,
+              "end": 44,
+              "text": "IAL",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t142_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 58,
+              "end": 96,
+              "text": "Laboratórios Centrais de Saúde Pública",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t142_2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 97,
+              "end": 105,
+              "text": "(LACENs)",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t142_3",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 122,
+              "end": 155,
+              "text": "Secretaria de Vigilância em Saúde",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t142_4",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 159,
+              "end": 179,
+              "text": "Ministério da Saúde,",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t142_5",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 215,
+              "end": 234,
+              "text": "Estado de São Paulo",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t142_6",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 250,
+              "end": 273,
+              "text": "município de São Paulo.",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "data": {
+      "text": "Número de cepas por grupo etário e sexo.",
+      "sentenca_id": "sireva_2017_s0034",
+      "relatorio": "sireva_2017",
+      "pagina": 14
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "data": {
+      "text": "O  Núcleo  de  Meningites,  Pneumonias  e  Infecções  Pneumocócicas (NMPI), Centro de Bacteriologia do Instituto Adolfo Lutz (IAL), é o Laboratório de  Referência  Nacional  para  Meningites  Bacterianas  e  para  as  Doenças Pneumocócicas  Invasivas  pelo  Ministério  da  Saúde.",
+      "sentenca_id": "sireva_2017_s0005",
+      "relatorio": "sireva_2017",
+      "pagina": 3
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "data": {
+      "text": "Diretor Geral do Instituto Adolfo Lutz, CCD, SES, São Paulo",
+      "sentenca_id": "sireva_2023_s0200",
+      "relatorio": "sireva_2023",
+      "pagina": 39
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t145_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 17,
+              "end": 39,
+              "text": "Instituto Adolfo Lutz,",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t145_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 50,
+              "end": 59,
+              "text": "São Paulo",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "data": {
+      "text": "Centro de Lab Regional - Instituto Adolfo Lutz de Sorocaba",
+      "sentenca_id": "sireva_2013_s0239",
+      "relatorio": "sireva_2013",
+      "pagina": 41
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t146_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 25,
+              "end": 46,
+              "text": "Instituto Adolfo Lutz",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t146_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 50,
+              "end": 58,
+              "text": "Sorocaba",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "data": {
+      "text": "Centro de Lab Regional - Instituto Adolfo Lutz de Santos",
+      "sentenca_id": "sireva_2020_s0216",
+      "relatorio": "sireva_2020",
+      "pagina": 34
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t147_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 0,
+              "end": 46,
+              "text": "Centro de Lab Regional - Instituto Adolfo Lutz",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t147_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 50,
+              "end": 56,
+              "text": "Santos",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "data": {
+      "text": "Suscetibilidade a penicilina em ≥ 5 anos, por sorotipo e diagnóstico.",
+      "sentenca_id": "sireva_2014_s0093",
+      "relatorio": "sireva_2014",
+      "pagina": 31
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t148_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 32,
+              "end": 41,
+              "text": "≥ 5 anos,",
+              "labels": [
+                "FAIXA_ETARIA"
+              ]
+            }
+          },
+          {
+            "id": "t148_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 46,
+              "end": 54,
+              "text": "sorotipo",
+              "labels": [
+                "SOROTIPO"
+              ]
+            }
+          },
+          {
+            "id": "t148_2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 57,
+              "end": 69,
+              "text": "diagnóstico.",
+              "labels": [
+                "METODO_LAB"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "data": {
+      "text": "Anualmente, os dados laboratoriais são disponibilizados à comunidade médica, científica e às instituições de saúde informando as características das cepas  circulantes  em  nosso  meio  visando  avaliar  as  medidas  preventivas  e uma melhor opção terapêutica.",
+      "sentenca_id": "sireva_2017_s0008",
+      "relatorio": "sireva_2017",
+      "pagina": 3
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "data": {
+      "text": "Diretor Geral do Instituto Adolfo Lutz, CCD, SES, São Paulo",
+      "sentenca_id": "sireva_2018_s0119",
+      "relatorio": "sireva_2018",
+      "pagina": 38
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t150_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 17,
+              "end": 39,
+              "text": "Instituto Adolfo Lutz,",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t150_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 50,
+              "end": 59,
+              "text": "São Paulo",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "data": {
+      "text": "Hospital das Clínicas da Fac, de Medicina, Univ, Federal de",
+      "sentenca_id": "sireva_2015_s0244",
+      "relatorio": "sireva_2015",
+      "pagina": 42
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "data": {
+      "text": "Hospital das Clínicas da Fac. de Medicina, UNICAMP",
+      "sentenca_id": "sireva_2021_s0195",
+      "relatorio": "sireva_2021",
+      "pagina": 35
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "data": {
+      "text": "Centro de Lab Regional - Instituto Adolfo Lutz de Sorocaba",
+      "sentenca_id": "sireva_2023_s0372",
+      "relatorio": "sireva_2023",
+      "pagina": 42
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t153_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 25,
+              "end": 46,
+              "text": "Instituto Adolfo Lutz",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t153_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 50,
+              "end": 58,
+              "text": "Sorocaba",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 155,
+    "data": {
+      "text": "Deize Gomes Cavalcanti de Matos, Tânia Maria Catão de",
+      "sentenca_id": "sireva_2021_s0159",
+      "relatorio": "sireva_2021",
+      "pagina": 34
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 156,
+    "data": {
+      "text": "Centro de Lab Regional - Instituto Adolfo Lutz de Campinas",
+      "sentenca_id": "sireva_2020_s0184",
+      "relatorio": "sireva_2020",
+      "pagina": 34
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t155_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 25,
+              "end": 46,
+              "text": "Instituto Adolfo Lutz",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t155_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 50,
+              "end": 58,
+              "text": "Campinas",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 157,
+    "data": {
+      "text": "Diretor Geral do Instituto Adolfo Lutz, CCD, SES, São Paulo",
+      "sentenca_id": "sireva_2021_s0123",
+      "relatorio": "sireva_2021",
+      "pagina": 33
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t156_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 17,
+              "end": 39,
+              "text": "Instituto Adolfo Lutz,",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t156_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 50,
+              "end": 59,
+              "text": "São Paulo",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "data": {
+      "text": "Suscetibilidade a penicilina pela produção de Beta-lactamase de cepas por sorotipo e grupo etário.",
+      "sentenca_id": "sireva_2019_s0022",
+      "relatorio": "sireva_2019",
+      "pagina": 9
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 159,
+    "data": {
+      "text": "Nesse  contexto,  o  IAL monitora as características fenotípicas e moleculares das cepas de Neisseria meningitidis , Haemophilus influenzae e Streptococcus pneumoniae isoladas de casos  de  doenças  invasivas  nos  estados  brasileiros  através  da  vigilância nacional de base laboratorial.",
+      "sentenca_id": "sireva_2017_s0006",
+      "relatorio": "sireva_2017",
+      "pagina": 3
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t158_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 92,
+              "end": 114,
+              "text": "Neisseria meningitidis",
+              "labels": [
+                "PATOGENO"
+              ]
+            }
+          },
+          {
+            "id": "t158_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 117,
+              "end": 139,
+              "text": "Haemophilus influenzae",
+              "labels": [
+                "PATOGENO"
+              ]
+            }
+          },
+          {
+            "id": "t158_2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 142,
+              "end": 166,
+              "text": "Streptococcus pneumoniae",
+              "labels": [
+                "PATOGENO"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "data": {
+      "text": "Suscetibilidade a penicilina em  ≥ 5 anos, por sorotipo e diagnóstico.",
+      "sentenca_id": "sireva_2023_s0145",
+      "relatorio": "sireva_2023",
+      "pagina": 33
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t159_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 33,
+              "end": 42,
+              "text": "≥ 5 anos,",
+              "labels": [
+                "FAIXA_ETARIA"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 161,
+    "data": {
+      "text": "Diretor Geral do Instituto Adolfo Lutz, CCD, SES, São Paulo",
+      "sentenca_id": "sireva_2017_s0112",
+      "relatorio": "sireva_2017",
+      "pagina": 38
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t160_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 17,
+              "end": 39,
+              "text": "Instituto Adolfo Lutz,",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t160_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 50,
+              "end": 59,
+              "text": "São Paulo",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "data": {
+      "text": "Centro de Lab Regional - Instituto Adolfo Lutz de Campinas",
+      "sentenca_id": "sireva_2021_s0189",
+      "relatorio": "sireva_2021",
+      "pagina": 35
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t161_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 0,
+              "end": 58,
+              "text": "Centro de Lab Regional - Instituto Adolfo Lutz de Campinas",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 163,
+    "data": {
+      "text": "Centro de Lab Regional - Instituto Adolfo Lutz de Sorocaba",
+      "sentenca_id": "sireva_2024_s0360",
+      "relatorio": "sireva_2024",
+      "pagina": 42
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t162_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 25,
+              "end": 46,
+              "text": "Instituto Adolfo Lutz",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t162_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 50,
+              "end": 58,
+              "text": "Sorocaba",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "data": {
+      "text": "No Estado de São Paulo, a vigilância de Neisseria meningitidis , Haemophilus influenzae e Streptococcus pneumoniae conta  com  a  parceria  da  rede  de  12 laboratórios  regionais  do  Instituto  Adolfo  Lutz  e  com  a  colaboração  dos hospitais públicos e privados.",
+      "sentenca_id": "sireva_2023_s0034",
+      "relatorio": "sireva_2023",
+      "pagina": 4
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t163_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 13,
+              "end": 23,
+              "text": "São Paulo,",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t163_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 40,
+              "end": 62,
+              "text": "Neisseria meningitidis",
+              "labels": [
+                "PATOGENO"
+              ]
+            }
+          },
+          {
+            "id": "t163_2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 65,
+              "end": 87,
+              "text": "Haemophilus influenzae",
+              "labels": [
+                "PATOGENO"
+              ]
+            }
+          },
+          {
+            "id": "t163_3",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 90,
+              "end": 114,
+              "text": "Streptococcus pneumoniae",
+              "labels": [
+                "PATOGENO"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "data": {
+      "text": "Maria Cristina de Cunto Brandileone (Diretor NMPI) - maria.brandileone@ial.sp.gov.br",
+      "sentenca_id": "sireva_2018_s0235",
+      "relatorio": "sireva_2018",
+      "pagina": 41
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 166,
+    "data": {
+      "text": "Diretora da Divisão de Doenças Respiratórias, CVE, CCD, Secretaria de",
+      "sentenca_id": "sireva_2016_s0129",
+      "relatorio": "sireva_2016",
+      "pagina": 40
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "data": {
+      "text": "Os dados de suscetibilidade as drogas se referem às amostras diagnosticadas por cultura (n=124)",
+      "sentenca_id": "sireva_2023_s0082",
+      "relatorio": "sireva_2023",
+      "pagina": 19
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t166_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 80,
+              "end": 87,
+              "text": "cultura",
+              "labels": [
+                "METODO_LAB"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 168,
+    "data": {
+      "text": "*Identificação do isolado de Streptococcus pneumoniae pela PCR tempo real para o gene lyt A e sorotipagem realizada através da metodologia da PCR convencional e/ou tempo real porém sem possibilidade técnica de identificação do sorotipo.",
+      "sentenca_id": "sireva_2022_s0065",
+      "relatorio": "sireva_2022",
+      "pagina": 23
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t167_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 29,
+              "end": 53,
+              "text": "Streptococcus pneumoniae",
+              "labels": [
+                "PATOGENO"
+              ]
+            }
+          },
+          {
+            "id": "t167_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 59,
+              "end": 62,
+              "text": "PCR",
+              "labels": [
+                "METODO_LAB"
+              ]
+            }
+          },
+          {
+            "id": "t167_2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 63,
+              "end": 73,
+              "text": "tempo real",
+              "labels": [
+                "METODO_LAB"
+              ]
+            }
+          },
+          {
+            "id": "t167_3",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 94,
+              "end": 105,
+              "text": "sorotipagem",
+              "labels": [
+                "METODO_LAB"
+              ]
+            }
+          },
+          {
+            "id": "t167_4",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 142,
+              "end": 158,
+              "text": "PCR convencional",
+              "labels": [
+                "METODO_LAB"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "data": {
+      "text": "Centro de Bacteriologia Instituto Adolfo Lutz (IAL) São Paulo, Brasil",
+      "sentenca_id": "sireva_2024_s0365",
+      "relatorio": "sireva_2024",
+      "pagina": 42
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t168_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 0,
+              "end": 51,
+              "text": "Centro de Bacteriologia Instituto Adolfo Lutz (IAL)",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t168_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 52,
+              "end": 62,
+              "text": "São Paulo,",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t168_2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 63,
+              "end": 69,
+              "text": "Brasil",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "data": {
+      "text": "Suscetibilidade a penicilina em  ≥5 anos, por sorotipo e diagnóstico.",
+      "sentenca_id": "sireva_2015_s0106",
+      "relatorio": "sireva_2015",
+      "pagina": 34
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 171,
+    "data": {
+      "text": "Suscetibilidade a penicilina em <5 anos, por sorotipo e diagnóstico.",
+      "sentenca_id": "sireva_2023_s0126",
+      "relatorio": "sireva_2023",
+      "pagina": 30
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t170_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 32,
+              "end": 40,
+              "text": "<5 anos,",
+              "labels": [
+                "FAIXA_ETARIA"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 172,
+    "data": {
+      "text": "Suscetibilidade a penicilina em ≥ 5 anos, por sorotipo e diagnóstico.",
+      "sentenca_id": "sireva_2014_s0102",
+      "relatorio": "sireva_2014",
+      "pagina": 33
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t171_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 32,
+              "end": 41,
+              "text": "≥ 5 anos,",
+              "labels": [
+                "FAIXA_ETARIA"
+              ]
+            }
+          },
+          {
+            "id": "t171_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 46,
+              "end": 54,
+              "text": "sorotipo",
+              "labels": [
+                "SOROTIPO"
+              ]
+            }
+          },
+          {
+            "id": "t171_2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 57,
+              "end": 69,
+              "text": "diagnóstico.",
+              "labels": [
+                "METODO_LAB"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "data": {
+      "text": "Diretor Geral do Instituto Adolfo Lutz, CCD, SES, São Paulo",
+      "sentenca_id": "sireva_2022_s0120",
+      "relatorio": "sireva_2022",
+      "pagina": 33
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t172_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 17,
+              "end": 39,
+              "text": "Instituto Adolfo Lutz,",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t172_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 50,
+              "end": 59,
+              "text": "São Paulo",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "data": {
+      "text": "Ana Paula Silva de Lemos Maria Cecília Outeiro Gorla Rosemeire Cobo Zanella Samanta Cristine Grassi Almeida Sérgio Bokermann",
+      "sentenca_id": "sireva_2014_s0248",
+      "relatorio": "sireva_2014",
+      "pagina": 41
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "data": {
+      "text": "Sulfametoxazol + Trimetoprim - SXT (KB ou CIM)",
+      "sentenca_id": "sireva_2014_s0034",
+      "relatorio": "sireva_2014",
+      "pagina": 13
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 176,
+    "data": {
+      "text": "Os isolados bacterianos são encaminhados ao IAL-Central, localizado na cidade  de  São  Paulo,  pela  rede  de  Laboratórios  Centrais  de  Saúde  Pública (LACENs) localizados um em cada estado do Brasil, e coordenada CGLAB e CGDT, Secretaria de Vigilância em Saúde do Ministério da Saúde (SVS, MS).",
+      "sentenca_id": "sireva_2023_s0033",
+      "relatorio": "sireva_2023",
+      "pagina": 4
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t175_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 44,
+              "end": 56,
+              "text": "IAL-Central,",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t175_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 197,
+              "end": 204,
+              "text": "Brasil,",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t175_2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 218,
+              "end": 223,
+              "text": "CGLAB",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t175_3",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 226,
+              "end": 231,
+              "text": "CGDT,",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t175_4",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 232,
+              "end": 288,
+              "text": "Secretaria de Vigilância em Saúde do Ministério da Saúde",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t175_5",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 289,
+              "end": 294,
+              "text": "(SVS,",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t175_6",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 295,
+              "end": 299,
+              "text": "MS).",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 177,
+    "data": {
+      "text": "Centro de Lab Regional - Instituto Adolfo Lutz de R. Preto",
+      "sentenca_id": "sireva_2024_s0282",
+      "relatorio": "sireva_2024",
+      "pagina": 40
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "data": {
+      "text": "Suscetibilidade a penicilina em  <5 anos, por sorotipo e diagnóstico.",
+      "sentenca_id": "sireva_2014_s0085",
+      "relatorio": "sireva_2014",
+      "pagina": 29
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t177_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 33,
+              "end": 41,
+              "text": "<5 anos,",
+              "labels": [
+                "FAIXA_ETARIA"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 179,
+    "data": {
+      "text": "Nesse  contexto,  o  IAL monitora as características fenotípicas e moleculares das cepas de Neisseria meningitidis , Haemophilus influenzae e Streptococcus pneumoniae isoladas de casos  de  doenças  invasivas  nos  estados  brasileiros  através  da  vigilância nacional de base laboratorial.",
+      "sentenca_id": "sireva_2018_s0006",
+      "relatorio": "sireva_2018",
+      "pagina": 3
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t178_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 92,
+              "end": 114,
+              "text": "Neisseria meningitidis",
+              "labels": [
+                "PATOGENO"
+              ]
+            }
+          },
+          {
+            "id": "t178_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 117,
+              "end": 139,
+              "text": "Haemophilus influenzae",
+              "labels": [
+                "PATOGENO"
+              ]
+            }
+          },
+          {
+            "id": "t178_2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 142,
+              "end": 166,
+              "text": "Streptococcus pneumoniae",
+              "labels": [
+                "PATOGENO"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 180,
+    "data": {
+      "text": "Diretor Geral do Instituto Adolfo Lutz, CCD, SES, São Paulo",
+      "sentenca_id": "sireva_2019_s0114",
+      "relatorio": "sireva_2019",
+      "pagina": 35
+    },
+    "predictions": [
+      {
+        "model_version": "silver_gpt4o_mini",
+        "score": 0.8,
+        "result": [
+          {
+            "id": "t179_0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 17,
+              "end": 39,
+              "text": "Instituto Adolfo Lutz,",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          },
+          {
+            "id": "t179_1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 50,
+              "end": 59,
+              "text": "São Paulo",
+              "labels": [
+                "LOCAL"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
